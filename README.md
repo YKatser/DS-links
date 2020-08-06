@@ -1,7 +1,7 @@
 [Russian CV](https://ykatser.github.io">ykatser.github.io) | English CV | [site](waico.ru)
 
 # DS-links
-A lot of useful links about DS
+A lot of useful DS links
 
 ## Books links
 - [Books free downloading service http://libgen.is/](http://libgen.is/)
@@ -10,9 +10,9 @@ A lot of useful links about DS
 
 - [All IAEA publications (All techical reviews, etc)](https://www.iaea.org/publications/search?keywords=) | [Operation and maintenance of NNPs](https://www.iaea.org/publications/search/topics/operation-and-maintenance-of-nuclear-power-plants?keywords=) | [Nuclear knowledge management](https://www.iaea.org/publications/search/topics/nuclear-knowledge-management?keywords=)
 
-- Bayesian Inference & Graphical Models (by Vetrov): Koller09
+- Bayesian Inference & Graphical Models: Koller09
 
-- Latent Variable Models (by Vetrov):	Bishop06
+- Latent Variable Models:	Bishop06
 
 - [ods site with ML competitions (from kaggle, drivendata, zindi, etc.)](http://mltrainings.ru)
 
@@ -48,7 +48,7 @@ A lot of useful links about DS
 
 - [Andrew Ng Deep learning on youtube](https://www.youtube.com/watch?v=PySo_6S4ZAg)
 
-- ✅[Andrew Ng anomaly detection course (youtube)](https://www.youtube.com/playlist?list=PLwgXNx7TiGV6UH3aEzmdZwzFRwvEnRb0N)
+- [Andrew Ng anomaly detection course (youtube)](https://www.youtube.com/playlist?list=PLwgXNx7TiGV6UH3aEzmdZwzFRwvEnRb0N)
 
 - [Специализация Продвинутое машинное обучение (coursera)](https://www.coursera.org/specializations/aml?#instructors)
 
@@ -92,7 +92,7 @@ A lot of useful links about DS
 
 - [(PCA) Machine Learning for Real-Time Anomaly Detection in Network Time-Series Data](https://www.youtube.com/watch?v=0PqzukqMcdA)
 
-## general DS links
+## General DS links
 - [preparing for a DS interview (10 steps)](https://www.datascienceweekly.org/articles/basic-research-you-must-do-before-a-data-science-interview)
 
 - AI from US Obama government, 2016: [1](https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/documents/Artificial-Intelligence-Automation-Economy.PDF) | [2](https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf) | [3](https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/national_ai_rd_strategic_plan.pdf) | [4](https://www.nitrd.gov/PUBS/bigdatardstrategicplan.pdf)
@@ -123,7 +123,7 @@ A lot of useful links about DS
 
 - [Data preprocessing for machine learning: options and recommendations (by google)](https://cloud.google.com/solutions/machine-learning/data-preprocessing-for-ml-with-tf-transform-pt1)
 
-<img src="files/cv_scheme.png" alt="Simply Easy Learning" width="300" height="150">
+<img src="files/cv_scheme.png" alt="Simply Easy Learning" width="500" height="250">
   
 - [CV scheme, McKinsey’s Datathon: The City Cup](https://www.youtube.com/watch?v=AhBEBZRtpx0)
 
@@ -139,4 +139,4 @@ A lot of useful links about DS
 
 - [Repo with keras GAN implementations](https://github.com/eriklindernoren/Keras-GAN)
 
-<img src="files/ml_methods.png" alt="Simply Easy Learning" width="500" height="250">
+<img src="files/ml_methods.png" alt="Simply Easy Learning" width="700" height="350">
