@@ -1,10 +1,10 @@
-[Russian CV](https://ykatser.github.io">ykatser.github.io) | English CV | [site](waico.ru)
+[Russian CV](https://ykatser.github.io">ykatser.github.io) | English CV | [site](waico.ru) [waico github](https://github.com/waico)
 
 # DS-links
 A lot of useful DS links
 
 ## Books links
-- [Books free downloading service http://libgen.is/](http://libgen.is/)
+- [Books free downloading service (http://libgen.is/)](http://libgen.is/)
 
 - [Podcasts](https://www.npr.org/programs/)
 
@@ -107,7 +107,7 @@ A lot of useful DS links
 
 - [70 links on ML (for beginners)](https://habr.com/en/company/spbifmo/blog/276479/)
 
-- Deep Learning presentation by Sapunov (intento): [Presentation](http://bioinformaticsinstitute.ru/sites/default/files/vvedenie_v_deep_learning.pdf] | [article](https://habr.com/ru/company/oleg-bunin/blog/340184/)
+- Deep Learning presentation by Sapunov (intento): [Presentation](http://bioinformaticsinstitute.ru/sites/default/files/vvedenie_v_deep_learning.pdf) | [article](https://habr.com/ru/company/oleg-bunin/blog/340184/)
 
 - AutoML (NN): [DARTS: Differentiable Architecture Search (Arxiv)](https://arxiv.org/abs/1806.09055) | [DARTS (github](https://github.com/quark0/darts) | [AutoKeras (arxiv)](https://arxiv.org/abs/1806.10282)
 
