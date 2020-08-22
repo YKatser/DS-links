@@ -58,6 +58,8 @@ A lot of useful DS links
 
 - Lectures on VAE: [Deep Learning Lecture 14: Karol Gregor on Variational Autoencoders and Image Generation](https://www.youtube.com/watch?v=P78QYjWh5sM) | [Variational Autoencoder and Extensions](http://videolectures.net/deeplearning2015_courville_autoencoder_extension/?q=aaron%20courville)
 
+- MLSS/SMILES at Skoltech: [youtube](https://www.youtube.com/c/SMILESSummerSchoolofMachineLearningatSK/videos) | [github 2019](https://github.com/mlss-skoltech) | [github 2020](https://github.com/SummerSchoolMachineLearning)
+
 ## Notebooks links
 - [COMPREHENSIVE DATA EXPLORATION WITH PYTHON (kaggle)](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
 
