@@ -1,4 +1,4 @@
-[Russian CV](https://ykatser.github.io">ykatser.github.io) | English CV | [site](waico.ru) | [waico github](https://github.com/waico)
+[Russian CV](https://ykatser.github.io) | English CV | [site](https://waico.ru) | [waico github](https://github.com/waico)
 
 # DS-links
 A lot of useful DS links
