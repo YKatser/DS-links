@@ -1,5 +1,3 @@
-[Russian CV](https://ykatser.github.io) | English CV | [site](https://waico.ru) | [waico github](https://github.com/waico)
-
 # DS-links
 A lot of useful DS links
 
@@ -62,6 +60,8 @@ A lot of useful DS links
 
 ## Notebooks links
 - [COMPREHENSIVE DATA EXPLORATION WITH PYTHON (kaggle)](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
+
+- [Deep Learning Tutorial for Beginners](https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners)
 
 - [model selection (hyperopt), feature engineering, ensembling](https://habr.com/en/company/mailru/blog/321016/)
 
