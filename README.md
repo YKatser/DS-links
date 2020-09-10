@@ -21,6 +21,8 @@ A lot of useful DS links
 
 - [Harvard Business Review journal](https://hbr.org)
 
+- [Курсы от Сбербанка и Гугла «Бизнес-класс»](https://bc2.business-class.pro)
+
 - [Агрегатор всех источников поддержки вашего бизнеса от Rusbase](https://rb.ru/chance/)
 
 - [Статья письмо инвестору на Rusbase](https://rb.ru/opinion/investment-proposal-letter/)
