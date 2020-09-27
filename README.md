@@ -27,11 +27,17 @@ A lot of useful DS links
 
 - [Статья письмо инвестору на Rusbase](https://rb.ru/opinion/investment-proposal-letter/)
 
+- [DS for Business (Курс от ВШЭ, youtube)](https://www.youtube.com/watch?v=oseHCwDBfSE)
+
+#### Metrics in DS projects
 - [DS метрики в прокси и бизнес метрики for Predictive Maintenance (researchgate)](https://www.researchgate.net/publication/327982563_Cost-Sensitive_Learning_for_Predictive_Maintenance)
 
-- [Business Metrics for Data-Driven Companies (coursera course)](https://www.coursera.org/learn/analytics-business-metrics#syllabus)
+[Метрики в DS проектах (youtube)](https://www.youtube.com/watch?v=RnvaybU4SCw), Алексей Могильников, Lead DS (2020)
+```
+Доклад будет посвящен тому, какие виды метрик бывают в ML-продукте, как они связаны между собой и как связать продуктовые метрики с метриками DS.
+```
 
-- [DS for Business (Курс от ВШЭ, youtube)](https://www.youtube.com/watch?v=oseHCwDBfSE)
+- [Business Metrics for Data-Driven Companies (coursera course)](https://www.coursera.org/learn/analytics-business-metrics#syllabus)
 
 ## Courses
 - [Online courses and other DL staff (MIT's Lex Fridman recommendation, fast.ai)](https://www.fast.ai)
@@ -60,6 +66,32 @@ A lot of useful DS links
 
 - MLSS/SMILES at Skoltech: [youtube](https://www.youtube.com/c/SMILESSummerSchoolofMachineLearningatSK/videos) | [github 2019](https://github.com/mlss-skoltech) | [github 2020](https://github.com/SummerSchoolMachineLearning)
 
+## DS libraries and instruments
+- Sktime: a Unified Python Library for Time Series Machine Learning: [towardsdatascience](https://towardsdatascience.com/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55) | [github](https://github.com/alan-turing-institute/sktime) | [youtube](https://www.youtube.com/watch?v=Wf2naBHRo8Q)
+Per the Github page, sktime currently provides:
+```
+- State-of-the-art algorithms for time series classification, regression, and forecasting (ported from the Java-based tsml toolkit),
+- Transformers for time series: single-series transformations (e.g. detrending or deseasonalization), series-as-features transformations (e.g. feature extractors), and tools to compose different transformers,
+- Pipelining for transformers and models,
+- Model tuning,
+- Ensembling of models — e.g. a fully customizable random forest for time-series classification and regression; ensembling for multivariate problems.
+```
+
+- bayesian_changepoint_detection (online): [github](https://github.com/hildensia/bayesian_changepoint_detection/tree/master/bayesian_changepoint_detection)
+
+- List of tools & datasets for anomaly detection on time-series data: [github](https://github.com/rob-med/awesome-TS-anomaly-detection)
+
+- Python Outlier Detection (PyOD): [pyod.readthedocs.io](https://pyod.readthedocs.io/en/latest/) | [github](https://github.com/yzhao062/Pyod#aggarwal2015theoretical)
+```
+PyOD is a comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data.
+PyOD includes more than 30 detection algorithms
+```
+
+- Applying random forests and deep encoder-decoder RNNs to time series prediction + few anomaly detection links: [spark-in.me](https://spark-in.me/post/playing-with-electricity)
+```
+Playing with electricity - forecasting 5000 time series
+```
+
 ## Notebooks links
 - [COMPREHENSIVE DATA EXPLORATION WITH PYTHON (kaggle)](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
 
@@ -85,7 +117,7 @@ A lot of useful DS links
 
 - [Time Series Classification and Clustering (github)](https://github.com/alexminnaar/time-series-classification-and-clustering)
 
-## Selected videos
+## Selected DS videos
 - [Flexibility, Interpretability, and Scalability in Time Series Modeling](https://www.youtube.com/watch?v=LkoriFtcRss)
 
 - [kalman filters for non rocket scientists](https://www.youtube.com/watch?v=k_MpfzMc9PU)
@@ -97,6 +129,11 @@ A lot of useful DS links
 - [(PCA) Machine Learning for Real-Time Anomaly Detection in Network Time-Series Data](https://www.youtube.com/watch?v=0PqzukqMcdA)
 
 ## General DS links
+- [Awesome Machine Learning (github)](https://github.com/josephmisiti/awesome-machine-learning#python-general-purpose)
+```
+A curated list of awesome machine learning frameworks, libraries and software (by language)
+```
+
 - [preparing for a DS interview (10 steps)](https://www.datascienceweekly.org/articles/basic-research-you-must-do-before-a-data-science-interview)
 
 - AI from US Obama government, 2016: [1](https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/documents/Artificial-Intelligence-Automation-Economy.PDF) | [2](https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf) | [3](https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/national_ai_rd_strategic_plan.pdf) | [4](https://www.nitrd.gov/PUBS/bigdatardstrategicplan.pdf)
@@ -135,8 +172,7 @@ A lot of useful DS links
 
 - [Bidirectional-LSTM based RNNs for text-to-speech synthesis (en)](https://r9y9.github.io/nnmnkwii/stable/nnmnkwii_gallery/notebooks/tts/02-Bidirectional-LSTM%20based%20RNNs%20for%20speech%20synthesis%20(en).html)
 
-### GAN
-
+#### GAN
 - [Perfect intro (towardsdatascience)](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
 
 - [Repo with pytorch GAN implementations](https://github.com/eriklindernoren/PyTorch-GAN)
