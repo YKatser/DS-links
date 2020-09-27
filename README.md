@@ -32,7 +32,7 @@ A lot of useful DS links
 #### Metrics in DS projects
 - [DS метрики в прокси и бизнес метрики for Predictive Maintenance (researchgate)](https://www.researchgate.net/publication/327982563_Cost-Sensitive_Learning_for_Predictive_Maintenance)
 
-[Метрики в DS проектах (youtube)](https://www.youtube.com/watch?v=RnvaybU4SCw), Алексей Могильников, Lead DS (2020)
+- [Метрики в DS проектах (youtube)](https://www.youtube.com/watch?v=RnvaybU4SCw), Алексей Могильников, Lead DS (2020)
 ```
 Доклад будет посвящен тому, какие виды метрик бывают в ML-продукте, как они связаны между собой и как связать продуктовые метрики с метриками DS.
 ```
@@ -118,6 +118,8 @@ Playing with electricity - forecasting 5000 time series
 - [Time Series Classification and Clustering (github)](https://github.com/alexminnaar/time-series-classification-and-clustering)
 
 ## Selected DS videos
+- [Тесты DS кода для прода](https://www.youtube.com/watch?v=-Jx9gvUV520)
+
 - [Flexibility, Interpretability, and Scalability in Time Series Modeling](https://www.youtube.com/watch?v=LkoriFtcRss)
 
 - [kalman filters for non rocket scientists](https://www.youtube.com/watch?v=k_MpfzMc9PU)
