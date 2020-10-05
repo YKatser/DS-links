@@ -1,6 +1,9 @@
 # DS-links
 A lot of useful DS links
 
+## Teamlead lectures
+[Лекции по тимлидству](./TeamLeadLectures.md)
+
 ## Books links
 - [Books free downloading service (http://libgen.is/)](http://libgen.is/)
 
