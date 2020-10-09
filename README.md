@@ -69,6 +69,15 @@ A lot of useful DS links
 
 - MLSS/SMILES at Skoltech: [youtube](https://www.youtube.com/c/SMILESSummerSchoolofMachineLearningatSK/videos) | [github 2019](https://github.com/mlss-skoltech) | [github 2020](https://github.com/SummerSchoolMachineLearning)
 
+- [The NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/deep-learning-ai/education/)
+```
+The NVIDIA Deep Learning Institute (DLI) offers hands-on training in AI, accelerated computing, and accelerated data science. 
+Developers, data scientists, researchers, and students can get practical experience powered by GPUs in the cloud. 
+And IT professionals can access courses on designing and managing infrastructure to support AI, data science, and HPC workloads across their organizations. 
+Get started with DLI through self-paced, online training for individuals, instructor-led workshops for teams, and downloadable course materials for university educators.  
+Earn an NVIDIA DLI certificate to demonstrate your subject matter competency and support your career growth.
+```
+
 ## DS libraries and instruments
 - Sktime: a Unified Python Library for Time Series Machine Learning: [towardsdatascience](https://towardsdatascience.com/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55) | [github](https://github.com/alan-turing-institute/sktime) | [youtube](https://www.youtube.com/watch?v=Wf2naBHRo8Q)
 Per the Github page, sktime currently provides:
