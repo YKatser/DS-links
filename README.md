@@ -4,7 +4,7 @@ A lot of useful DS links
 ## Teamlead
 - [Лекции по тимлидству](./TeamLeadLectures.md)
 
-- [Требования и обязанности](./TeamLeadSkills.md)
+- [Требования и обязанности тимлида](./TeamLeadSkills.md)
 
 ## Books links
 - [Books free downloading service (http://libgen.is/)](http://libgen.is/)
@@ -196,3 +196,6 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 - [Repo with keras GAN implementations](https://github.com/eriklindernoren/Keras-GAN)
 
 <img src="files/ml_methods.png" alt="Simply Easy Learning" width="700" height="350">
+
+#### Pipelines and automatization
+- [Артур Кузин: DL Pipelines tips & tricks](https://www.youtube.com/watch?v=W5GFH1erQ4U)
