@@ -106,6 +106,17 @@ PyOD includes more than 30 detection algorithms
 Playing with electricity - forecasting 5000 time series
 ```
 
+### Reproducibility
+- [Scikit-learn Pipelines](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html)
+```
+Scikit-learn's Pipeline class is designed as a manageable way to apply a series of data transformations followed by the application of an estimator.
+```
+
+- [pdpipe](https://towardsdatascience.com/https-medium-com-tirthajyoti-build-pipelines-with-pandas-using-pdpipe-cade6128cd31)
+```
+We show how to build intuitive and useful pipelines with Pandas DataFrame using a wonderful little library called pdpipe.
+```
+
 ## Notebooks links
 - [COMPREHENSIVE DATA EXPLORATION WITH PYTHON (kaggle)](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
 
