@@ -217,3 +217,8 @@ We show how to build intuitive and useful pipelines with Pandas DataFrame using 
 ```
 
 - [DVC and CML itself](https://iterative.ai)
+
+- [Kedro](https://github.com/quantumblacklabs/kedro)
+```
+Kedro is an open-source Python framework that applies software engineering best-practice to data and machine-learning pipelines. You can use it, for example, to optimise the process of taking a machine learning model into a production environment. You can use Kedro to organise a single user project running on a local environment, or collaborate within a team on an enterprise-level project.
+```
