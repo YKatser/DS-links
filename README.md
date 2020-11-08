@@ -131,6 +131,8 @@ Playing with electricity - forecasting 5000 time series
 
 - [Time Series Classification and Clustering (github)](https://github.com/alexminnaar/time-series-classification-and-clustering)
 
+- [Data Visualization: a lot of seaborn plot types in work (kaggle)](https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization)
+
 ## Selected DS videos
 - [Тесты DS кода для прода](https://www.youtube.com/watch?v=-Jx9gvUV520)
 
@@ -149,8 +151,6 @@ Playing with electricity - forecasting 5000 time series
 ```
 A curated list of awesome machine learning frameworks, libraries and software (by language)
 ```
-
-- [preparing for a DS interview (10 steps)](https://www.datascienceweekly.org/articles/basic-research-you-must-do-before-a-data-science-interview)
 
 - AI from US Obama government, 2016: [1](https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/documents/Artificial-Intelligence-Automation-Economy.PDF) | [2](https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf) | [3](https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/national_ai_rd_strategic_plan.pdf) | [4](https://www.nitrd.gov/PUBS/bigdatardstrategicplan.pdf)
 
@@ -187,6 +187,8 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 - [Deep Image Prior (DIP)](https://dmitryulyanov.github.io/deep_image_prior)
 
 - [Bidirectional-LSTM based RNNs for text-to-speech synthesis (en)](https://r9y9.github.io/nnmnkwii/stable/nnmnkwii_gallery/notebooks/tts/02-Bidirectional-LSTM%20based%20RNNs%20for%20speech%20synthesis%20(en).html)
+
+- [Condition Monitoring and Predictive Maintenance from MathLAB](https://www.mathworks.com/help/predmaint/gs/designing-algorithms-for-condition-monitoring-and-predictive-maintenance.html?s_eid=PSM_15028)
 
 #### GAN
 - [Perfect intro (towardsdatascience)](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
