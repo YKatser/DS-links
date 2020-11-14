@@ -199,6 +199,7 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 
 <img src="files/ml_methods.png" alt="Simply Easy Learning" width="700" height="350">
 
+
 ## Reproducibility and automatization
 - [Scikit-learn Pipelines](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html)
 ```
@@ -223,4 +224,17 @@ We show how to build intuitive and useful pipelines with Pandas DataFrame using 
 - [Kedro](https://github.com/quantumblacklabs/kedro)
 ```
 Kedro is an open-source Python framework that applies software engineering best-practice to data and machine-learning pipelines. You can use it, for example, to optimise the process of taking a machine learning model into a production environment. You can use Kedro to organise a single user project running on a local environment, or collaborate within a team on an enterprise-level project.
+```
+
+
+- Code for reproducability (Pytorch):
+```python
+def set_determenistic(seed=666, precision=10):
+  np.random.seed(seed)
+  random.seed(seed)
+  torch.backends.cudnn.benchmark = False
+  torch.backends.cudnn.deterministic = True
+  torch.cuda.manual_seed_all(seed)
+  torch.manual_seed(seed)
+  torch.set_printoptions(precision=precision)
 ```
