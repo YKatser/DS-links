@@ -22,17 +22,15 @@ A lot of useful DS links
 ## Business
 - [YCombinator 2017 course on youtube](https://www.youtube.com/watch?v=ZoqgAy3h4OM&list=PLQ-uHSnFig5MiLRb-l6yiCBGyqfVyVf17)
 
-- [YCombinator 2017 course (with russian subtitles from RUSSOL and rusbase)](https://rb.ru/startupschool/)
-
 - [Harvard Business Review journal](https://hbr.org)
 
 - [Курсы от Сбербанка и Гугла «Бизнес-класс»](https://bc2.business-class.pro)
 
 - [Агрегатор всех источников поддержки вашего бизнеса от Rusbase](https://rb.ru/chance/)
 
-- [Статья письмо инвестору на Rusbase](https://rb.ru/opinion/investment-proposal-letter/)
-
 - [DS for Business (Курс от ВШЭ, youtube)](https://www.youtube.com/watch?v=oseHCwDBfSE)
+
+- [54 лучших (DS) инструмента создания аналитических отчетов для бизнеса](https://vc.ru/services/117222-54-luchshih-instrumenta-sozdaniya-analiticheskih-otchetov-dlya-biznesa)
 
 #### Metrics in DS projects
 - [DS метрики в прокси и бизнес метрики for Predictive Maintenance (researchgate)](https://www.researchgate.net/publication/327982563_Cost-Sensitive_Learning_for_Predictive_Maintenance)
@@ -107,6 +105,8 @@ Playing with electricity - forecasting 5000 time series
 ```
 
 ## Notebooks links
+- [(A LOT OF LINKS TO NOTEBBOKS AND INSTRUMENTS) Machine Learning and Data Science Applications in Industry](https://github.com/ashishpatel26/Real-time-ML-Project#manufacturing)
+
 - [COMPREHENSIVE DATA EXPLORATION WITH PYTHON (kaggle)](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
 
 - [Deep Learning Tutorial for Beginners](https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners)
@@ -134,7 +134,9 @@ Playing with electricity - forecasting 5000 time series
 - [Data Visualization: a lot of seaborn plot types in work (kaggle)](https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization)
 
 ## Selected DS videos
-- [Тесты DS кода для прода](https://www.youtube.com/watch?v=-Jx9gvUV520)
+- [Тесты DS кода для прода (Алексей Могильников)](https://www.youtube.com/watch?v=-Jx9gvUV520)
+
+- [Testing for Data Science Hands-on Guide (Julia Antokhina)](https://www.youtube.com/watch?v=u5NxhpjW4To)
 
 - [Flexibility, Interpretability, and Scalability in Time Series Modeling](https://www.youtube.com/watch?v=LkoriFtcRss)
 
