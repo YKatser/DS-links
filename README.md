@@ -42,6 +42,8 @@ A lot of useful DS links
 
 - [Business Metrics for Data-Driven Companies (coursera course)](https://www.coursera.org/learn/analytics-business-metrics#syllabus)
 
+- [Краткий ликбез по ML метрикам и их связи с бизнес-метриками](https://www.youtube.com/watch?v=pDMgvhsUPJM)
+
 ## Courses
 - [Online courses and other DL staff (MIT's Lex Fridman recommendation, fast.ai)](https://www.fast.ai)
 
@@ -105,7 +107,7 @@ Playing with electricity - forecasting 5000 time series
 ```
 
 ## Notebooks links
-- [(A LOT OF LINKS TO NOTEBBOKS AND INSTRUMENTS) Machine Learning and Data Science Applications in Industry](https://github.com/ashishpatel26/Real-time-ML-Project#manufacturing)
+- [(A LOT OF LINKS TO NOTEBOKS AND INSTRUMENTS) Machine Learning and Data Science Applications in Industry](https://github.com/ashishpatel26/Real-time-ML-Project#manufacturing)
 
 - [COMPREHENSIVE DATA EXPLORATION WITH PYTHON (kaggle)](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
 
@@ -228,7 +230,6 @@ We show how to build intuitive and useful pipelines with Pandas DataFrame using 
 Kedro is an open-source Python framework that applies software engineering best-practice to data and machine-learning pipelines. You can use it, for example, to optimise the process of taking a machine learning model into a production environment. You can use Kedro to organise a single user project running on a local environment, or collaborate within a team on an enterprise-level project.
 ```
 
-
 - Code for reproducability (Pytorch):
 ```python
 def set_determenistic(seed=666, precision=10):
@@ -246,15 +247,12 @@ def Random(seed_value):
     # 1. Set `PYTHONHASHSEED` environment variable at a fixed value
     import os
     os.environ['PYTHONHASHSEED'] = str(seed_value)
-
     # 2. Set `python` built-in pseudo-random generator at a fixed value
     import random
     random.seed(seed_value)
-
     # 3. Set `numpy` pseudo-random generator at a fixed value
     import numpy as np
     np.random.seed(seed_value)
-
     # 4. Set `tensorflow` pseudo-random generator at a fixed value
     import tensorflow as tf
     tf.random.set_seed(seed_value)
