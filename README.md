@@ -36,9 +36,6 @@ A lot of useful DS links
 - [DS метрики в прокси и бизнес метрики for Predictive Maintenance (researchgate)](https://www.researchgate.net/publication/327982563_Cost-Sensitive_Learning_for_Predictive_Maintenance)
 
 - [Метрики в DS проектах (youtube)](https://www.youtube.com/watch?v=RnvaybU4SCw), Алексей Могильников, Lead DS (2020)
-```
-Доклад будет посвящен тому, какие виды метрик бывают в ML-продукте, как они связаны между собой и как связать продуктовые метрики с метриками DS.
-```
 
 - [Business Metrics for Data-Driven Companies (coursera course)](https://www.coursera.org/learn/analytics-business-metrics#syllabus)
 
@@ -135,6 +132,18 @@ Playing with electricity - forecasting 5000 time series
 
 - [Data Visualization: a lot of seaborn plot types in work (kaggle)](https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization)
 
+- Defected products detection: [SECOM Detecting Defected Items (binary classification problem)](https://github.com/sharmaroshan/SECOM-Detecting-Defected-Items) | [Approaches for the class imbalance problem SECOM](https://github.com/Meena-Mani/SECOM_class_imbalance)
+
+- [Bosch Production Line Performance](https://www.kaggle.com/c/bosch-production-line-performance/overview/description)
+```
+In this competition, Bosch is challenging Kagglers to predict internal failures using thousands of measurements and tests made for each component along the assembly line. 
+This would enable Bosch to bring quality products at lower costs to the end user.
+```
+
+- [Azure | Deep Learning for Predictive Maintenance (lstms_for_predictive_maintenance incl. RUL)](https://github.com/Azure/lstms_for_predictive_maintenance)
+
+- [RUL, TTF, alot of usefull notebooks](https://github.com/Samimust/predictive-maintenance)
+
 ## Selected DS videos
 - [Тесты DS кода для прода (Алексей Могильников)](https://www.youtube.com/watch?v=-Jx9gvUV520)
 
@@ -150,6 +159,8 @@ Playing with electricity - forecasting 5000 time series
 
 - [(PCA) Machine Learning for Real-Time Anomaly Detection in Network Time-Series Data](https://www.youtube.com/watch?v=0PqzukqMcdA)
 
+- [Кросс-валидация с оценкой значимости изменения и обработкой выбросов (Данила Савенков), youtube (Kaggle Mercedes Benz)](https://www.youtube.com/watch?v=HT3QpRp2ewA)
+
 ## General DS links
 - [Awesome Machine Learning (github)](https://github.com/josephmisiti/awesome-machine-learning#python-general-purpose)
 ```
@@ -164,8 +175,6 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 
 - [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition (MIT's Les Fridman recommendation), Medium](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 
-- [Neural networks zoo](http://www.asimovinstitute.org/neural-network-zoo/)
-
 - [70 links on ML (for beginners)](https://habr.com/en/company/spbifmo/blog/276479/)
 
 - Deep Learning presentation by Sapunov (intento): [Presentation](http://bioinformaticsinstitute.ru/sites/default/files/vvedenie_v_deep_learning.pdf) | [article](https://habr.com/ru/company/oleg-bunin/blog/340184/)
@@ -173,8 +182,6 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 - AutoML (NN): [DARTS: Differentiable Architecture Search (Arxiv)](https://arxiv.org/abs/1806.09055) | [DARTS (github](https://github.com/quark0/darts) | [AutoKeras (arxiv)](https://arxiv.org/abs/1806.10282)
 
 - Models stacking: [Dyakonov](https://dyakonov.org/2017/03/10/cтекинг-stacking-и-блендинг-blending/) | [kaggle](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
-
-- [Кросс-валидация с оценкой значимости изменения и обработкой выбросов (Данила Савенков), youtube (Kaggle Mercedes Benz)](https://www.youtube.com/watch?v=HT3QpRp2ewA)
 
 - [Convert a Time Series to a Supervised Learning Problem](https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/)
 
@@ -189,8 +196,6 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 - [CV scheme, McKinsey’s Datathon: The City Cup](https://www.youtube.com/watch?v=AhBEBZRtpx0)
 
 - [Deep Image Prior (DIP)](https://dmitryulyanov.github.io/deep_image_prior)
-
-- [Bidirectional-LSTM based RNNs for text-to-speech synthesis (en)](https://r9y9.github.io/nnmnkwii/stable/nnmnkwii_gallery/notebooks/tts/02-Bidirectional-LSTM%20based%20RNNs%20for%20speech%20synthesis%20(en).html)
 
 - [Condition Monitoring and Predictive Maintenance from MathLAB](https://www.mathworks.com/help/predmaint/gs/designing-algorithms-for-condition-monitoring-and-predictive-maintenance.html?s_eid=PSM_15028)
 
