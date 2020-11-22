@@ -162,6 +162,10 @@ This would enable Bosch to bring quality products at lower costs to the end user
 - [Кросс-валидация с оценкой значимости изменения и обработкой выбросов (Данила Савенков), youtube (Kaggle Mercedes Benz)](https://www.youtube.com/watch?v=HT3QpRp2ewA)
 
 ## General DS links
+- [Machine Learning with scikit-learn (interactive slides)](http://amueller.github.io/sklearn_tutorial/#/1)
+
+- [Time Series Analysis (TSA) in Python - Linear Models to GARCH](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
+
 - [Awesome Machine Learning (github)](https://github.com/josephmisiti/awesome-machine-learning#python-general-purpose)
 ```
 A curated list of awesome machine learning frameworks, libraries and software (by language)
