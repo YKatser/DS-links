@@ -166,7 +166,12 @@ This would enable Bosch to bring quality products at lower costs to the end user
 
 - [Time Series Analysis (TSA) in Python - Linear Models to GARCH](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
 
-- [Awesome Machine Learning (github)](https://github.com/josephmisiti/awesome-machine-learning#python-general-purpose)
+- [(7.2k stars) Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
+```
+This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning.
+```
+
+- [(47.5k stars) Awesome Machine Learning (github)](https://github.com/josephmisiti/awesome-machine-learning)
 ```
 A curated list of awesome machine learning frameworks, libraries and software (by language)
 ```
