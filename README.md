@@ -19,7 +19,7 @@ A lot of useful DS links
 
 - [ods site with ML competitions (from kaggle, drivendata, zindi, etc.)](http://mltrainings.ru)
 
-## Business
+## Business (incl. BI)
 - [YCombinator 2017 course on youtube](https://www.youtube.com/watch?v=ZoqgAy3h4OM&list=PLQ-uHSnFig5MiLRb-l6yiCBGyqfVyVf17)
 
 - [Harvard Business Review journal](https://hbr.org)
@@ -31,6 +31,8 @@ A lot of useful DS links
 - [DS for Business (Курс от ВШЭ, youtube)](https://www.youtube.com/watch?v=oseHCwDBfSE)
 
 - [54 лучших (DS) инструмента создания аналитических отчетов для бизнеса](https://vc.ru/services/117222-54-luchshih-instrumenta-sozdaniya-analiticheskih-otchetov-dlya-biznesa)
+
+- Алексей Колоколов (Институт бизнес-аналитики) о важности визуализации и как правильно визуализировать информацию и готовить отчеты/дашборды: [Дашборды: интерактивная визуализация данных](https://www.youtube.com/watch?v=ve8aQmE-vBY) | [Монетизация больших данных](https://www.youtube.com/watch?v=3ukGDeaZ7Ao)
 
 #### Metrics in DS projects
 - [DS метрики в прокси и бизнес метрики for Predictive Maintenance (researchgate)](https://www.researchgate.net/publication/327982563_Cost-Sensitive_Learning_for_Predictive_Maintenance)
