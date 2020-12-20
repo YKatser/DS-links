@@ -4,7 +4,7 @@ A lot of useful DS links
 ## Teamlead
 - [Лекции по тимлидству](./TeamLeadLectures.md)
 
-- [Требования и обязанности тимлида](./TeamLeadSkills.md)
+- [Требования и обязанности тимлида DS](./TeamLeadSkills.md)
 
 ## Books links
 - [Books free downloading service (http://libgen.is/)](http://libgen.is/)
@@ -233,10 +233,10 @@ We show how to build intuitive and useful pipelines with Pandas DataFrame using 
 
 - [Артур Кузин: DL Pipelines tips & tricks](https://www.youtube.com/watch?v=W5GFH1erQ4U)
 
-- [Mikhail Maryufich: Reproducibility is not a pain anymore! (DVC, MLFLOW, CML)](https://www.youtube.com/watch?v=oDLmdNPli98)
+- [ODS.ai Machine Learning REPA: Reproducibility, Experiments and Pipelines Automation](https://ods.ai/tracks/ml-repa-df2020)
 ```
-Вывод модели в продакшен - это не только её запаковка в контейнер, но и фиксация процесса ее обучения. Подробное описание того, как модель была получена позволяет избежать потерь знаний и результатов экспериментов. 
-Мы в ОК построили процесс, в котором модели обучаются автоматически в контролируемом окружении и проходят ревью.
+The ML REPA track is traditionally dedicated to the tools and practices of experiment management in Machine Learning, Reproducibility and process automation.
+We have a fairly wide range of topics that overlap with the topics of other tracks - ML Infra, SysML, Lean Data Science and others. All these topics are related, and the task of ML REPA is to show how to build a process for developing ML solutions, how to organize teamwork and what tools can help you.
 ```
 
 - [DVC and CML itself](https://iterative.ai)
