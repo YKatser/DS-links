@@ -79,6 +79,8 @@ Get started with DLI through self-paced, online training for individuals, instru
 Earn an NVIDIA DLI certificate to demonstrate your subject matter competency and support your career growth.
 ```
 
+- [Highload: проектирование систем (Олег Бунин)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZuoK6Y0FaCh-25jEYtBvDo)
+
 ## DS libraries and instruments
 - Sktime: a Unified Python Library for Time Series Machine Learning: [towardsdatascience](https://towardsdatascience.com/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55) | [github](https://github.com/alan-turing-institute/sktime) | [youtube](https://www.youtube.com/watch?v=Wf2naBHRo8Q)
 Per the Github page, sktime currently provides:
