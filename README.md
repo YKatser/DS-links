@@ -9,15 +9,11 @@ A lot of useful DS links
 ## Books links
 - [Books free downloading service (http://libgen.is/)](http://libgen.is/)
 
-- [Podcasts](https://www.npr.org/programs/)
-
 - [All IAEA publications (All techical reviews, etc)](https://www.iaea.org/publications/search?keywords=) | [Operation and maintenance of NNPs](https://www.iaea.org/publications/search/topics/operation-and-maintenance-of-nuclear-power-plants?keywords=) | [Nuclear knowledge management](https://www.iaea.org/publications/search/topics/nuclear-knowledge-management?keywords=)
 
 - Bayesian Inference & Graphical Models: Koller09
 
 - Latent Variable Models:	Bishop06
-
-- [ods site with ML competitions (from kaggle, drivendata, zindi, etc.)](http://mltrainings.ru)
 
 ## Business (incl. BI)
 - [YCombinator 2017 course on youtube](https://www.youtube.com/watch?v=ZoqgAy3h4OM&list=PLQ-uHSnFig5MiLRb-l6yiCBGyqfVyVf17)
@@ -148,24 +144,14 @@ This would enable Bosch to bring quality products at lower costs to the end user
 
 - [RUL, TTF, alot of usefull notebooks](https://github.com/Samimust/predictive-maintenance)
 
-## Selected DS videos
+## Testing for DS
 - [Тесты DS кода для прода (Алексей Могильников)](https://www.youtube.com/watch?v=-Jx9gvUV520)
 
 - [Testing for Data Science Hands-on Guide (Julia Antokhina)](https://www.youtube.com/watch?v=u5NxhpjW4To)
 
-- [Flexibility, Interpretability, and Scalability in Time Series Modeling](https://www.youtube.com/watch?v=LkoriFtcRss)
-
-- [kalman filters for non rocket scientists](https://www.youtube.com/watch?v=k_MpfzMc9PU)
-
-- [Стас Семенов tinkoff](https://www.youtube.com/watch?v=NVKDSNM702k)
-
-- [Kaggle BNP Paribas — Станислав Семенов](https://www.youtube.com/watch?v=g335THJxkto)
-
-- [(PCA) Machine Learning for Real-Time Anomaly Detection in Network Time-Series Data](https://www.youtube.com/watch?v=0PqzukqMcdA)
-
-- [Кросс-валидация с оценкой значимости изменения и обработкой выбросов (Данила Савенков), youtube (Kaggle Mercedes Benz)](https://www.youtube.com/watch?v=HT3QpRp2ewA)
-
 ## General DS links
+- [ods site with ML competitions (from kaggle, drivendata, zindi, etc.)](http://mltrainings.ru)
+
 - [Machine Learning with scikit-learn (interactive slides)](http://amueller.github.io/sklearn_tutorial/#/1)
 
 - [Time Series Analysis (TSA) in Python - Linear Models to GARCH](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
@@ -212,7 +198,17 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 
 - [Condition Monitoring and Predictive Maintenance from MathLAB](https://www.mathworks.com/help/predmaint/gs/designing-algorithms-for-condition-monitoring-and-predictive-maintenance.html?s_eid=PSM_15028)
 
-#### GAN
+- [kalman filters for non rocket scientists](https://www.youtube.com/watch?v=k_MpfzMc9PU)
+
+- [Стас Семенов tinkoff](https://www.youtube.com/watch?v=NVKDSNM702k)
+
+- [Kaggle BNP Paribas — Станислав Семенов](https://www.youtube.com/watch?v=g335THJxkto)
+
+- [(PCA) Machine Learning for Real-Time Anomaly Detection in Network Time-Series Data](https://www.youtube.com/watch?v=0PqzukqMcdA)
+
+- [Кросс-валидация с оценкой значимости изменения и обработкой выбросов (Данила Савенков), youtube (Kaggle Mercedes Benz)](https://www.youtube.com/watch?v=HT3QpRp2ewA)
+
+### GAN
 - [Perfect intro (towardsdatascience)](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
 
 - [Repo with pytorch GAN implementations](https://github.com/eriklindernoren/PyTorch-GAN)
@@ -221,6 +217,12 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 
 <img src="files/ml_methods.png" alt="Simply Easy Learning" width="700" height="350">
 
+## Causal inference
+- [ODS.ai Causal inference](https://ods.ai/tracks/causal-inference-in-ml-df2020/48dcb402-7d7c-4aa6-893d-d63a34d1092a)
+
+- Improved Shapley method [Asymmetric](https://arxiv.org/abs/1910.06358) | [Causal](https://arxiv.org/abs/2011.01625)
+
+- [Flexibility, Interpretability, and Scalability in Time Series Modeling](https://www.youtube.com/watch?v=LkoriFtcRss)
 
 ## Reproducibility and automatization
 - [Scikit-learn Pipelines](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html)
