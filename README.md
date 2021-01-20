@@ -52,13 +52,13 @@ A lot of useful DS links
 
 - [Statistical forecasting: notes on regression and time series analysis (duke)](https://people.duke.edu/~rnau/411home.htm)
 
-- [Andrew Ng Deep learning on youtube](https://www.youtube.com/watch?v=PySo_6S4ZAg)
+- [Andrew Ng Deep Learning Course on Youtube](https://www.youtube.com/watch?v=PySo_6S4ZAg)
 
-- [Andrew Ng anomaly detection course (youtube)](https://www.youtube.com/playlist?list=PLwgXNx7TiGV6UH3aEzmdZwzFRwvEnRb0N)
+- [Andrew Ng Anomaly Detection Course on Youtube](https://www.youtube.com/playlist?list=PLwgXNx7TiGV6UH3aEzmdZwzFRwvEnRb0N)
 
 - [Специализация Продвинутое машинное обучение (coursera)](https://www.coursera.org/specializations/aml?#instructors)
 
-- [Machine Learning course by OpenDataScience (github)](https://github.com/Yorko/mlcourse.ai)
+- [Machine Learning course by ODS.ai (github)](https://github.com/Yorko/mlcourse.ai)
 
 - [Лекции Алгоритмы и структуры данных (youtube)](https://www.youtube.com/watch?v=eqWzZGNO_XM)
 
@@ -76,6 +76,8 @@ Earn an NVIDIA DLI certificate to demonstrate your subject matter competency and
 ```
 
 - [Highload: проектирование систем (Олег Бунин)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZuoK6Y0FaCh-25jEYtBvDo)
+
+- [Обзорный курс LeanDS](https://leands-video-course.thinkific.com/courses/take/leands-mini-course/texts/19443404-leands#)
 
 ## DS libraries and instruments
 - Sktime: a Unified Python Library for Time Series Machine Learning: [towardsdatascience](https://towardsdatascience.com/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55) | [github](https://github.com/alan-turing-institute/sktime) | [youtube](https://www.youtube.com/watch?v=Wf2naBHRo8Q)
@@ -250,7 +252,7 @@ We have a fairly wide range of topics that overlap with the topics of other trac
 Kedro is an open-source Python framework that applies software engineering best-practice to data and machine-learning pipelines. You can use it, for example, to optimise the process of taking a machine learning model into a production environment. You can use Kedro to organise a single user project running on a local environment, or collaborate within a team on an enterprise-level project.
 ```
 
-- Code for reproducability (Pytorch):
+- Code for reproducibility (Pytorch):
 ```python
 def set_determenistic(seed=666, precision=10):
   np.random.seed(seed)
@@ -261,7 +263,7 @@ def set_determenistic(seed=666, precision=10):
   torch.manual_seed(seed)
   torch.set_printoptions(precision=precision)
 ```
-- Code for reproducability (Tensorflow):
+- Code for reproducibility (Tensorflow):
 ```python
 def Random(seed_value):
     # 1. Set `PYTHONHASHSEED` environment variable at a fixed value
@@ -276,4 +278,11 @@ def Random(seed_value):
     # 4. Set `tensorflow` pseudo-random generator at a fixed value
     import tensorflow as tf
     tf.random.set_seed(seed_value)
+```
+
+## AI product architecture
+- [Архитектура AI продуктов, Михаил Перлин](https://www.youtube.com/watch?v=kbsQRisaJPo)
+```
+Архитектура ПО - дисциплина, которая за это отвечает. Что она включает в себя? Каких скиллов и качеств требует? Могут ли DS ею овладеть? Кого звать на помощь, если нужно прямо сейчас?
+Доклад меньше про технологии и больше про процессы, стратегии и людей.
 ```
