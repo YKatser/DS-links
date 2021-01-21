@@ -1,11 +1,19 @@
 # DS-links
 A lot of useful DS links
 
-## Teamlead
+<a name="table-of-contents"></a>
+## Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Team leading](#team-leading)
+- [Books links](#books-links)
+
+<a name="team-leading"></a>
+## Team leading
 - [Лекции по тимлидству](./TeamLeadLectures.md)
 
 - [Требования и обязанности тимлида DS](./TeamLeadSkills.md)
 
+<a name="books-links"></a>
 ## Books links
 - [Books free downloading service (http://libgen.is/)](http://libgen.is/)
 
@@ -15,7 +23,7 @@ A lot of useful DS links
 
 - Latent Variable Models:	Bishop06
 
-## Business (incl. BI)
+## Business links (incl. BI)
 - [YCombinator 2017 course on youtube](https://www.youtube.com/watch?v=ZoqgAy3h4OM&list=PLQ-uHSnFig5MiLRb-l6yiCBGyqfVyVf17)
 
 - [Harvard Business Review journal](https://hbr.org)
@@ -29,15 +37,6 @@ A lot of useful DS links
 - [54 лучших (DS) инструмента создания аналитических отчетов для бизнеса](https://vc.ru/services/117222-54-luchshih-instrumenta-sozdaniya-analiticheskih-otchetov-dlya-biznesa)
 
 - Алексей Колоколов (Институт бизнес-аналитики) о важности визуализации и как правильно визуализировать информацию и готовить отчеты/дашборды: [Дашборды: интерактивная визуализация данных](https://www.youtube.com/watch?v=ve8aQmE-vBY) | [Монетизация больших данных](https://www.youtube.com/watch?v=3ukGDeaZ7Ao)
-
-#### Metrics in DS projects
-- [DS метрики в прокси и бизнес метрики for Predictive Maintenance (researchgate)](https://www.researchgate.net/publication/327982563_Cost-Sensitive_Learning_for_Predictive_Maintenance)
-
-- [Метрики в DS проектах (youtube)](https://www.youtube.com/watch?v=RnvaybU4SCw), Алексей Могильников, Lead DS (2020)
-
-- [Business Metrics for Data-Driven Companies (coursera course)](https://www.coursera.org/learn/analytics-business-metrics#syllabus)
-
-- [Краткий ликбез по ML метрикам и их связи с бизнес-метриками](https://www.youtube.com/watch?v=pDMgvhsUPJM)
 
 ## Courses
 - [Online courses and other DL staff (MIT's Lex Fridman recommendation, fast.ai)](https://www.fast.ai)
@@ -67,17 +66,12 @@ A lot of useful DS links
 - MLSS/SMILES at Skoltech: [youtube](https://www.youtube.com/c/SMILESSummerSchoolofMachineLearningatSK/videos) | [github 2019](https://github.com/mlss-skoltech) | [github 2020](https://github.com/SummerSchoolMachineLearning)
 
 - [The NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/deep-learning-ai/education/)
-```
-The NVIDIA Deep Learning Institute (DLI) offers hands-on training in AI, accelerated computing, and accelerated data science. 
-Developers, data scientists, researchers, and students can get practical experience powered by GPUs in the cloud. 
-And IT professionals can access courses on designing and managing infrastructure to support AI, data science, and HPC workloads across their organizations. 
-Get started with DLI through self-paced, online training for individuals, instructor-led workshops for teams, and downloadable course materials for university educators.  
-Earn an NVIDIA DLI certificate to demonstrate your subject matter competency and support your career growth.
-```
 
 - [Highload: проектирование систем (Олег Бунин)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZuoK6Y0FaCh-25jEYtBvDo)
 
 - [Обзорный курс LeanDS](https://leands-video-course.thinkific.com/courses/take/leands-mini-course/texts/19443404-leands#)
+
+- [Business Metrics for Data-Driven Companies (coursera course)](https://www.coursera.org/learn/analytics-business-metrics#syllabus)
 
 ## DS libraries and instruments
 - Sktime: a Unified Python Library for Time Series Machine Learning: [towardsdatascience](https://towardsdatascience.com/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55) | [github](https://github.com/alan-turing-institute/sktime) | [youtube](https://www.youtube.com/watch?v=Wf2naBHRo8Q)
@@ -90,23 +84,18 @@ Per the Github page, sktime currently provides:
 - Ensembling of models — e.g. a fully customizable random forest for time-series classification and regression; ensembling for multivariate problems.
 ```
 
-- bayesian_changepoint_detection (online): [github](https://github.com/hildensia/bayesian_changepoint_detection/tree/master/bayesian_changepoint_detection)
+- [bayesian_changepoint_detection (online)](https://github.com/hildensia/bayesian_changepoint_detection/tree/master/bayesian_changepoint_detection) - 
+Methods to get the probability of a changepoint in a time series. Both online and offline methods are available.
 
-- List of tools & datasets for anomaly detection on time-series data: [github](https://github.com/rob-med/awesome-TS-anomaly-detection)
+- [awesome-TS-anomaly-detection](https://github.com/rob-med/awesome-TS-anomaly-detection) - List of tools & datasets for anomaly detection on time-series data
 
-- Python Outlier Detection (PyOD): [pyod.readthedocs.io](https://pyod.readthedocs.io/en/latest/) | [github](https://github.com/yzhao062/Pyod#aggarwal2015theoretical)
-```
-PyOD is a comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data.
-PyOD includes more than 30 detection algorithms
-```
+- [Python Outlier Detection (PyOD)](https://github.com/yzhao062/pyod) - PyOD is a comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. PyOD includes more than 30 detection algorithms
 
-- Applying random forests and deep encoder-decoder RNNs to time series prediction + few anomaly detection links: [spark-in.me](https://spark-in.me/post/playing-with-electricity)
-```
-Playing with electricity - forecasting 5000 time series
-```
+- [Playing with electricity - forecasting 5000 time series](https://spark-in.me/post/playing-with-electricity) - Applying random forests and deep encoder-decoder RNNs to time series prediction + few anomaly detection links
 
-## Notebooks links
-- [(A LOT OF LINKS TO NOTEBOKS AND INSTRUMENTS) Machine Learning and Data Science Applications in Industry](https://github.com/ashishpatel26/Real-time-ML-Project#manufacturing)
+## Notebooks
+### General
+- [(A LOT OF LINKS but not very useful) Machine Learning and Data Science Applications in Industry](https://github.com/ashishpatel26/Real-time-ML-Project#manufacturing)
 
 - [COMPREHENSIVE DATA EXPLORATION WITH PYTHON (kaggle)](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
 
@@ -122,6 +111,11 @@ Playing with electricity - forecasting 5000 time series
 
 - [Bayesian Hyperparameters optimization (github)](https://github.com/open-data-science/datascience-swiss-knife/blob/master/hyperparameters%20optimization/Bayesian%20optimization%20with%20BayesOpt.ipynb)
 
+- [Time Series Classification and Clustering (github)](https://github.com/alexminnaar/time-series-classification-and-clustering)
+
+- [Data Visualization: a lot of seaborn plot types in work (kaggle)](https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization)
+
+### Anomaly detection
 - [Fraud detection (Summarizing Konstantin Yakovlev’s view of kaggle competition)](https://www.kaggle.com/c/ieee-fraud-detection/discussion/107697#latest-630007)
 
 - [Fraud detection material/comps in Kaggle](https://www.kaggle.com/c/ieee-fraud-detection/discussion/99987)
@@ -129,10 +123,6 @@ Playing with electricity - forecasting 5000 time series
 - [Anomaly Detection Isolation Forest&Visualization (iForest)](https://www.kaggle.com/adithya44/anomaly-detection-isolation-forest-visualization)
 
 - [Anomaly Detection with Time Series Forecasting (SARIMA, LSTM, Holtwinters)](https://www.kaggle.com/adithya44/anomaly-detection-with-time-series-forecasting)
-
-- [Time Series Classification and Clustering (github)](https://github.com/alexminnaar/time-series-classification-and-clustering)
-
-- [Data Visualization: a lot of seaborn plot types in work (kaggle)](https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization)
 
 - Defected products detection: [SECOM Detecting Defected Items (binary classification problem)](https://github.com/sharmaroshan/SECOM-Detecting-Defected-Items) | [Approaches for the class imbalance problem SECOM](https://github.com/Meena-Mani/SECOM_class_imbalance)
 
@@ -151,7 +141,16 @@ This would enable Bosch to bring quality products at lower costs to the end user
 
 - [Testing for Data Science Hands-on Guide (Julia Antokhina)](https://www.youtube.com/watch?v=u5NxhpjW4To)
 
+## Metrics in DS projects
+- [DS метрики в прокси и бизнес метрики for Predictive Maintenance (researchgate)](https://www.researchgate.net/publication/327982563_Cost-Sensitive_Learning_for_Predictive_Maintenance)
+
+- [Метрики в DS проектах (youtube)](https://www.youtube.com/watch?v=RnvaybU4SCw), Алексей Могильников, Lead DS (2020)
+
+- [Краткий ликбез по ML метрикам и их связи с бизнес-метриками](https://www.youtube.com/watch?v=pDMgvhsUPJM)
+
 ## General DS links
+- [Машинное обучение для людей. Разбираемся простыми словами](https://vas3k.ru/blog/machine_learning/)
+
 - [ods site with ML competitions (from kaggle, drivendata, zindi, etc.)](http://mltrainings.ru)
 
 - [Machine Learning with scikit-learn (interactive slides)](http://amueller.github.io/sklearn_tutorial/#/1)
@@ -227,15 +226,9 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 - [Flexibility, Interpretability, and Scalability in Time Series Modeling](https://www.youtube.com/watch?v=LkoriFtcRss)
 
 ## Reproducibility and automatization
-- [Scikit-learn Pipelines](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html)
-```
-Scikit-learn's Pipeline class is designed as a manageable way to apply a series of data transformations followed by the application of an estimator.
-```
+- [Scikit-learn Pipelines](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html) - Scikit-learn's Pipeline class is designed as a manageable way to apply a series of data transformations followed by the application of an estimator.
 
-- [pdpipe](https://towardsdatascience.com/https-medium-com-tirthajyoti-build-pipelines-with-pandas-using-pdpipe-cade6128cd31)
-```
-We show how to build intuitive and useful pipelines with Pandas DataFrame using a wonderful little library called pdpipe.
-```
+- [pdpipe](https://towardsdatascience.com/https-medium-com-tirthajyoti-build-pipelines-with-pandas-using-pdpipe-cade6128cd31) - We show how to build intuitive and useful pipelines with Pandas DataFrame using a wonderful little library called pdpipe.
 
 - [Артур Кузин: DL Pipelines tips & tricks](https://www.youtube.com/watch?v=W5GFH1erQ4U)
 
@@ -244,8 +237,6 @@ We show how to build intuitive and useful pipelines with Pandas DataFrame using 
 The ML REPA track is traditionally dedicated to the tools and practices of experiment management in Machine Learning, Reproducibility and process automation.
 We have a fairly wide range of topics that overlap with the topics of other tracks - ML Infra, SysML, Lean Data Science and others. All these topics are related, and the task of ML REPA is to show how to build a process for developing ML solutions, how to organize teamwork and what tools can help you.
 ```
-
-- [DVC and CML itself](https://iterative.ai)
 
 - [Kedro](https://github.com/quantumblacklabs/kedro)
 ```
