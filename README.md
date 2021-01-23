@@ -12,12 +12,12 @@ A lot of useful DS links
 - [Notebooks](#notebooks)
   - [General](#general-notebooks)
   - [Time-Series and Anomaly Detection](#ts-and-ad-notebooks)
-- [Testing in DS](#testing)
-- [Metrics in DS projects](#metrics)
 - [General DS Links](#general-ds-links)
   - [General](#general-ds-links-general)
   - [Time Series and Anomaly Detection](#ts-and-ad)
   - [GAN](#gan)
+- [Testing in DS](#testing)
+- [Metrics in DS projects](#metrics)
 - [Causal Inference](#causal)
 - [Reproducibility and Automatization](#repa)
 - [AI Products Architecture](#ai-products-architecture)
@@ -166,20 +166,6 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [Time Series Classification and Clustering (github)](https://github.com/alexminnaar/time-series-classification-and-clustering)
 
-<a name="testing"></a>
-## Testing in DS
-- [Тесты DS кода для прода (Алексей Могильников)](https://www.youtube.com/watch?v=-Jx9gvUV520)
-
-- [Testing for Data Science Hands-on Guide (Julia Antokhina)](https://www.youtube.com/watch?v=u5NxhpjW4To)
-
-<a name="metrics"></a>
-## Metrics in DS Projects
-- [DS метрики в прокси и бизнес метрики for Predictive Maintenance (researchgate)](https://www.researchgate.net/publication/327982563_Cost-Sensitive_Learning_for_Predictive_Maintenance)
-
-- [Метрики в DS проектах (youtube)](https://www.youtube.com/watch?v=RnvaybU4SCw), Алексей Могильников, Lead DS (2020)
-
-- [Краткий ликбез по ML метрикам и их связи с бизнес-метриками](https://www.youtube.com/watch?v=pDMgvhsUPJM)
-
 <a name="general-ds-links"></a>
 ## General DS Links
 
@@ -246,13 +232,31 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [Repo with keras GAN implementations](https://github.com/eriklindernoren/Keras-GAN)
 
+<a name="testing"></a>
+## Testing in DS
+- [Тесты DS кода для прода (Алексей Могильников)](https://www.youtube.com/watch?v=-Jx9gvUV520)
+
+- [Testing for Data Science Hands-on Guide (Julia Antokhina)](https://www.youtube.com/watch?v=u5NxhpjW4To)
+
+<a name="metrics"></a>
+## Metrics in DS Projects
+- [DS метрики в прокси и бизнес метрики for Predictive Maintenance (researchgate)](https://www.researchgate.net/publication/327982563_Cost-Sensitive_Learning_for_Predictive_Maintenance)
+
+- [Метрики в DS проектах (youtube)](https://www.youtube.com/watch?v=RnvaybU4SCw), Алексей Могильников, Lead DS (2020)
+
+- [Краткий ликбез по ML метрикам и их связи с бизнес-метриками](https://www.youtube.com/watch?v=pDMgvhsUPJM)
+
 <a name="causal"></a>
 ## Causal Inference
 - [ODS.ai Causal inference](https://ods.ai/tracks/causal-inference-in-ml-df2020/48dcb402-7d7c-4aa6-893d-d63a34d1092a)
 
 - Improved Shapley method [Asymmetric](https://arxiv.org/abs/1910.06358) | [Causal](https://arxiv.org/abs/2011.01625)
 
+- [Causal inference in statistics: An overview](http://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf) - Thisreviewpresentsempiricalresearcherswithrecentadvances in causal inference, and stresses the paradigmatic shifts that must be undertaken in moving from traditional statistical analysis to causal analysis of multivariate data.
+
 - [Flexibility, Interpretability, and Scalability in Time Series Modeling](https://www.youtube.com/watch?v=LkoriFtcRss)
+
+- [Tutorial on Causal Inference and Counterfactual Reasoning](https://causalinference.gitlab.io/kdd-tutorial/)
 
 <a name="repa"></a>
 ## Reproducibility and Automatization
@@ -276,6 +280,7 @@ Kedro is an open-source Python framework that applies software engineering best-
 - Pytorch Code for Reproducibility:
 <details>
   <summary>Details</summary>
+
 ```python
 def set_determenistic(seed=666, precision=10):
   np.random.seed(seed)
@@ -286,11 +291,13 @@ def set_determenistic(seed=666, precision=10):
   torch.manual_seed(seed)
   torch.set_printoptions(precision=precision)
 ```
+
 </details>
 
 - Tensorflow Code for Reproducibility:
 <details>
   <summary>Details</summary>
+
 ```python
 def Random(seed_value):
     # 1. Set `PYTHONHASHSEED` environment variable at a fixed value
@@ -306,6 +313,7 @@ def Random(seed_value):
     import tensorflow as tf
     tf.random.set_seed(seed_value)
 ```
+
 </details>
 
 <a name="ai-products-architecture"></a>
