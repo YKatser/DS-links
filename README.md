@@ -118,6 +118,8 @@ Per the Github page, sktime currently provides:
 - Ensembling of models — e.g. a fully customizable random forest for time-series classification and regression; ensembling for multivariate problems.
 ```
 
+- [TSFRESH: Time Series Feature extraction based on scalable hypothesis tests](https://github.com/blue-yonder/tsfresh) - The package contains many feature extraction methods and a robust feature selection algorithm.
+
 - [bayesian_changepoint_detection (online)](https://github.com/hildensia/bayesian_changepoint_detection/tree/master/bayesian_changepoint_detection) - 
 Methods to get the probability of a changepoint in a time series. Both online and offline methods are available.
 
