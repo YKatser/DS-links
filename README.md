@@ -86,9 +86,11 @@ A lot of useful DS links
 
 - [Highload: проектирование систем (Олег Бунин)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZuoK6Y0FaCh-25jEYtBvDo)
 
-- [Обзорный курс LeanDS](https://leands-video-course.thinkific.com/courses/take/leands-mini-course/texts/19443404-leands#)
+- ✅[Обзорный курс LeanDS](https://leands-video-course.thinkific.com/courses/take/leands-mini-course/texts/19443404-leands#)
 
 - [Business Metrics for Data-Driven Companies (coursera course)](https://www.coursera.org/learn/analytics-business-metrics#syllabus)
+
+- [MLOps Tutorials by DVC](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz)
 
 <a name="lists-of-tools"></a>
 ## Lists of Tools
