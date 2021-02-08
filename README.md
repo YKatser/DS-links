@@ -62,7 +62,7 @@ A lot of useful DS links
 
 - [D. Vetrov course on Bayesian methods in ML (youtube)](https://www.youtube.com/watch?v=Ejsr3S79gcQ)
 
-- [K. Vorontsov course on ML (2007)](http://www.ccas.ru/voron/teaching.html#ML)
+- ✅[K. Vorontsov course on ML (2007)](http://www.ccas.ru/voron/teaching.html#ML)
 
 - [E. Sokolov course on ML (semi-beginners, github)](https://github.com/esokolov/ml-course-hse/tree/master/2016-fall/lecture-notes)
 
@@ -70,7 +70,7 @@ A lot of useful DS links
 
 - [Andrew Ng Deep Learning Course on Youtube](https://www.youtube.com/watch?v=PySo_6S4ZAg)
 
-- [Andrew Ng Anomaly Detection Course on Youtube](https://www.youtube.com/playlist?list=PLwgXNx7TiGV6UH3aEzmdZwzFRwvEnRb0N)
+- ✅[Andrew Ng Anomaly Detection Course on Youtube](https://www.youtube.com/playlist?list=PLwgXNx7TiGV6UH3aEzmdZwzFRwvEnRb0N)
 
 - [Специализация Продвинутое машинное обучение (coursera)](https://www.coursera.org/specializations/aml?#instructors)
 
@@ -90,7 +90,7 @@ A lot of useful DS links
 
 - [Business Metrics for Data-Driven Companies (coursera course)](https://www.coursera.org/learn/analytics-business-metrics#syllabus)
 
-- [MLOps Tutorials by DVC](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz)
+- ✅[MLOps Tutorials by DVC](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz)
 
 <a name="lists-of-tools"></a>
 ## Lists of Tools
@@ -241,6 +241,8 @@ Methods to get the probability of a changepoint in a time series. Both online an
 - [Тесты DS кода для прода (Алексей Могильников)](https://www.youtube.com/watch?v=-Jx9gvUV520)
 
 - [Testing for Data Science Hands-on Guide (Julia Antokhina)](https://www.youtube.com/watch?v=u5NxhpjW4To)
+
+- [Effective testing for machine learning systems (jeremyjordan.me)](https://www.jeremyjordan.me/testing-ml/) - In this blog post, we'll cover what testing looks like for traditional software development, why testing machine learning systems can be different, and discuss some strategies for writing effective tests for machine learning systems. 
 
 <a name="metrics"></a>
 ## Metrics in DS Projects
