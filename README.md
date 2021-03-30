@@ -48,7 +48,7 @@ A lot of useful DS links
 
 - [Агрегатор всех источников поддержки вашего бизнеса от Rusbase](https://rb.ru/chance/)
 
-- [DS for Business (Курс от ВШЭ, youtube)](https://www.youtube.com/watch?v=oseHCwDBfSE)
+- [Data Science for Business (Курс от ВШЭ, Леонид Жуков)](http://www.leonidzhukov.net/hse/2020/datascience/)
 
 - [54 лучших (DS) инструмента создания аналитических отчетов для бизнеса](https://vc.ru/services/117222-54-luchshih-instrumenta-sozdaniya-analiticheskih-otchetov-dlya-biznesa)
 
@@ -94,6 +94,8 @@ A lot of useful DS links
 
 <a name="lists-of-tools"></a>
 ## Lists of Tools
+- [Awesome Ensemble Learning](https://github.com/yzhao062/awesome-ensemble-learning) - to promote the learning of ensembling, we create this repository with: Books & Academic Papers, Online Courses and Videos, Open-source and Commercial Libraries/Toolboxes and Datasets, Key Conferences & Journals
+
 - [awesome-TS-anomaly-detection](https://github.com/rob-med/awesome-TS-anomaly-detection) - List of tools & datasets for anomaly detection on time-series data
 
 - [(A LOT OF LINKS but not very useful) Machine Learning and Data Science Applications in Industry](https://github.com/ashishpatel26/Real-time-ML-Project#manufacturing)
