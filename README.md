@@ -266,6 +266,10 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [Tutorial on Causal Inference and Counterfactual Reasoning](https://causalinference.gitlab.io/kdd-tutorial/)
 
+- [Inferring causality in time series data](https://towardsdatascience.com/inferring-causality-in-time-series-data-b8b75fe52c46?#5771) - A concise review of the major approaches. (+ [video on youtube](https://www.youtube.com/watch?v=QVQoV22pPak))
+
+- [Causal Inference in Data Science From Prediction to Causation by Amit Sharma | DataEngConf NYC '16](https://www.youtube.com/watch?v=6SCoaBo1MqU) - A gentle introduction to causality
+
 <a name="repa"></a>
 ## Reproducibility and Automatization
 - [Scikit-learn Pipelines](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html) - Scikit-learn's Pipeline class is designed as a manageable way to apply a series of data transformations followed by the application of an estimator.
