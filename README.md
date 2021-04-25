@@ -21,6 +21,7 @@ A lot of useful DS links
 - [Causal Inference](#causal)
 - [Reproducibility and Automatization](#repa)
 - [AI Products Architecture](#ai-products-architecture)
+- [Cases of Industrial DS](#cases)
 
 <a name="team-leading"></a>
 ## Team leading
@@ -333,3 +334,8 @@ def Random(seed_value):
 - [Архитектура AI продуктов, Михаил Перлин](https://www.youtube.com/watch?v=kbsQRisaJPo) - Архитектура ПО - дисциплина, которая за это отвечает. Что она включает в себя? Каких скиллов и качеств требует? Могут ли DS ею овладеть? Кого звать на помощь, если нужно прямо сейчас? Доклад меньше про технологии и больше про процессы, стратегии и людей.
 
 - [Shortened Volere Requirements Specification Template](https://github.com/ttzt/catalog_of_requirements_for_ai_products)
+
+<a name="cases"></a>
+## Cases of Industrial DS
+
+- Severstal cases: [ODS](https://www.youtube.com/watch?v=1Ir70moB9aQ&t=1025s), [Boris Voskresenskii: Causal inference for a steel mill](https://www.youtube.com/watch?v=rdxs9c_y0Cw), [towardsdatascience.com: Causal inference for a steel mill](https://towardsdatascience.com/causal-inference-for-a-steel-mill-1e4dff991501), [Severstal Data Science Meetup](https://www.youtube.com/watch?v=6WglJwU-9i4), [Arxiv paper on RL](https://arxiv.org/pdf/2008.06933v1.pdf)
