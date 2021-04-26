@@ -93,6 +93,8 @@ A lot of useful DS links
 
 - ✅[MLOps Tutorials by DVC](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz)
 
+- [Samsung Innovation Campus - AI Lectorium](https://www.youtube.com/playlist?list=PLJEYfuHbcEIB-DdeoWaQ6Bzt0903kbmWK)
+
 <a name="lists-of-tools"></a>
 ## Lists of Tools
 - [Awesome Ensemble Learning](https://github.com/yzhao062/awesome-ensemble-learning) - to promote the learning of ensembling, we create this repository with: Books & Academic Papers, Online Courses and Videos, Open-source and Commercial Libraries/Toolboxes and Datasets, Key Conferences & Journals
