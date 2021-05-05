@@ -219,6 +219,8 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 <a name="ts-and-ad"></a>
 #### Time Series and Anomaly Detection
+- [Time Series for Everyone Presentation](https://data4sci.com/timeseries)
+
 - [Convert a Time Series to a Supervised Learning Problem](https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/)
 
 - [Time Series Analysis (TSA) in Python - Linear Models to GARCH](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
