@@ -179,7 +179,7 @@ Methods to get the probability of a changepoint in a time series. Both online an
 ## General DS Links
 
 <a name="general-ds-links-general"></a>
-## General
+#### General
 - [Машинное обучение для людей. Разбираемся простыми словами](https://vas3k.ru/blog/machine_learning/)
 
 - [ods site with ML competitions (from kaggle, drivendata, zindi, etc.)](http://mltrainings.ru)
@@ -262,6 +262,8 @@ Methods to get the probability of a changepoint in a time series. Both online an
 <a name="causal"></a>
 ## Causal Inference
 - [ODS.ai Causal inference](https://ods.ai/tracks/causal-inference-in-ml-df2020/48dcb402-7d7c-4aa6-893d-d63a34d1092a)
+
+- [[Youtube] Дмитрий Павлов. Сausal Inference в анализе временных рядов](https://www.youtube.com/watch?v=Yr6b8Rpy7Ds) [[arxiv] Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/abs/2102.05829)
 
 - Improved Shapley method [Asymmetric](https://arxiv.org/abs/1910.06358) | [Causal](https://arxiv.org/abs/2011.01625)
 
