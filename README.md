@@ -95,6 +95,8 @@ A lot of useful DS links
 
 - [Samsung Innovation Campus - AI Lectorium](https://www.youtube.com/playlist?list=PLJEYfuHbcEIB-DdeoWaQ6Bzt0903kbmWK)
 
+<img src="files/courses.png" alt="courses" width="800" height="380"> 
+
 <a name="lists-of-tools"></a>
 ## Lists of Tools
 - [Awesome Ensemble Learning](https://github.com/yzhao062/awesome-ensemble-learning) - to promote the learning of ensembling, we create this repository with: Books & Academic Papers, Online Courses and Videos, Open-source and Commercial Libraries/Toolboxes and Datasets, Key Conferences & Journals
@@ -200,7 +202,7 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [Deep Image Prior (DIP)](https://dmitryulyanov.github.io/deep_image_prior)
 
-- [Кросс-валидация с оценкой значимости изменения и обработкой выбросов (Данила Савенков), youtube (Kaggle Mercedes Benz)](https://www.youtube.com/watch?v=HT3QpRp2ewA)
+- [`[RU]` Кросс-валидация с оценкой значимости изменения и обработкой выбросов (Данила Савенков), youtube (Kaggle Mercedes Benz)](https://www.youtube.com/watch?v=HT3QpRp2ewA)
 
 - [CV scheme, McKinsey’s Datathon: The City Cup](https://www.youtube.com/watch?v=AhBEBZRtpx0)
   <details>
@@ -208,9 +210,9 @@ Methods to get the probability of a changepoint in a time series. Both online an
   <img src="files/cv_scheme.png" alt="Simply Easy Learning" width="500" height="250">
   </details>
 
-- [Стас Семенов tinkoff](https://www.youtube.com/watch?v=NVKDSNM702k)
+- [`[RU]` Стас Семенов tinkoff](https://www.youtube.com/watch?v=NVKDSNM702k)
 
-- [Kaggle BNP Paribas — Станислав Семенов](https://www.youtube.com/watch?v=g335THJxkto)
+- [`[RU]` Kaggle BNP Paribas — Станислав Семенов](https://www.youtube.com/watch?v=g335THJxkto)
 
 - <details>
     <summary>ML methods cheme</summary>
@@ -235,6 +237,8 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [(PCA) Machine Learning for Real-Time Anomaly Detection in Network Time-Series Data](https://www.youtube.com/watch?v=0PqzukqMcdA)
 
+- [`[RU]` Outlier detection and Isolation forest (youtube)](https://www.youtube.com/watch?v=TOK7Kq7x0yc) | [notebook on github](https://github.com/pileyan/Isolation_trees/blob/main/outliers.ipynb)
+
 <a name="gan"></a>
 #### GAN
 - [Perfect intro (towardsdatascience)](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
@@ -245,25 +249,25 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 <a name="testing"></a>
 ## Testing in DS
-- [Тесты DS кода для прода (Алексей Могильников)](https://www.youtube.com/watch?v=-Jx9gvUV520)
+- [`[RU]` Тесты DS кода для прода (Алексей Могильников)](https://www.youtube.com/watch?v=-Jx9gvUV520)
 
-- [Testing for Data Science Hands-on Guide (Julia Antokhina)](https://www.youtube.com/watch?v=u5NxhpjW4To)
+- [`[RU]` Testing for Data Science Hands-on Guide (Julia Antokhina)](https://www.youtube.com/watch?v=u5NxhpjW4To)
 
 - [Effective testing for machine learning systems (jeremyjordan.me)](https://www.jeremyjordan.me/testing-ml/) - In this blog post, we'll cover what testing looks like for traditional software development, why testing machine learning systems can be different, and discuss some strategies for writing effective tests for machine learning systems. 
 
 <a name="metrics"></a>
 ## Metrics in DS Projects
-- [DS метрики в прокси и бизнес метрики for Predictive Maintenance (researchgate)](https://www.researchgate.net/publication/327982563_Cost-Sensitive_Learning_for_Predictive_Maintenance)
+- [`[RU]` DS метрики в прокси и бизнес метрики for Predictive Maintenance (researchgate)](https://www.researchgate.net/publication/327982563_Cost-Sensitive_Learning_for_Predictive_Maintenance)
 
-- [Метрики в DS проектах (youtube)](https://www.youtube.com/watch?v=RnvaybU4SCw), Алексей Могильников, Lead DS (2020)
+- [`[RU]` Метрики в DS проектах (youtube)](https://www.youtube.com/watch?v=RnvaybU4SCw), Алексей Могильников, Lead DS (2020)
 
-- [Краткий ликбез по ML метрикам и их связи с бизнес-метриками](https://www.youtube.com/watch?v=pDMgvhsUPJM)
+- [`[RU]` Краткий ликбез по ML метрикам и их связи с бизнес-метриками](https://www.youtube.com/watch?v=pDMgvhsUPJM)
 
 <a name="causal"></a>
 ## Causal Inference
-- [ODS.ai Causal inference](https://ods.ai/tracks/causal-inference-in-ml-df2020/48dcb402-7d7c-4aa6-893d-d63a34d1092a)
+- [`[RU]` ODS.ai Causal inference](https://ods.ai/tracks/causal-inference-in-ml-df2020/48dcb402-7d7c-4aa6-893d-d63a34d1092a)
 
-- [[Youtube] Дмитрий Павлов. Сausal Inference в анализе временных рядов](https://www.youtube.com/watch?v=Yr6b8Rpy7Ds) [[arxiv] Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/abs/2102.05829)
+- [`[RU]` [Youtube] Дмитрий Павлов. Сausal Inference в анализе временных рядов](https://www.youtube.com/watch?v=Yr6b8Rpy7Ds) [[arxiv] Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/abs/2102.05829)
 
 - Improved Shapley method [Asymmetric](https://arxiv.org/abs/1910.06358) | [Causal](https://arxiv.org/abs/2011.01625)
 
@@ -283,7 +287,7 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [pdpipe](https://towardsdatascience.com/https-medium-com-tirthajyoti-build-pipelines-with-pandas-using-pdpipe-cade6128cd31) - We show how to build intuitive and useful pipelines with Pandas DataFrame using a wonderful little library called pdpipe.
 
-- [Артур Кузин: DL Pipelines tips & tricks](https://www.youtube.com/watch?v=W5GFH1erQ4U)
+- [`[RU]` Артур Кузин: DL Pipelines tips & tricks](https://www.youtube.com/watch?v=W5GFH1erQ4U)
 
 - [ODS.ai Machine Learning REPA: Reproducibility, Experiments and Pipelines Automation](https://ods.ai/tracks/ml-repa-df2020)
 ```
@@ -337,7 +341,7 @@ def Random(seed_value):
 
 <a name="ai-products-architecture"></a>
 ## AI Products Architecture
-- [Архитектура AI продуктов, Михаил Перлин](https://www.youtube.com/watch?v=kbsQRisaJPo) - Архитектура ПО - дисциплина, которая за это отвечает. Что она включает в себя? Каких скиллов и качеств требует? Могут ли DS ею овладеть? Кого звать на помощь, если нужно прямо сейчас? Доклад меньше про технологии и больше про процессы, стратегии и людей.
+- [`[RU]` Архитектура AI продуктов, Михаил Перлин](https://www.youtube.com/watch?v=kbsQRisaJPo) - Архитектура ПО - дисциплина, которая за это отвечает. Что она включает в себя? Каких скиллов и качеств требует? Могут ли DS ею овладеть? Кого звать на помощь, если нужно прямо сейчас? Доклад меньше про технологии и больше про процессы, стратегии и людей.
 
 - [Shortened Volere Requirements Specification Template](https://github.com/ttzt/catalog_of_requirements_for_ai_products)
 
