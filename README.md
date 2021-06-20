@@ -82,6 +82,8 @@ A lot of useful DS links
 
 - [Лекции Алгоритмы и структуры данных (youtube)](https://www.youtube.com/watch?v=eqWzZGNO_XM)
 
+- [Тренировки по алгоритмам от Яндекса](https://www.youtube.com/watch?v=QLhqYNsPIVo)
+
 - Lectures on VAE: [Deep Learning Lecture 14: Karol Gregor on Variational Autoencoders and Image Generation](https://www.youtube.com/watch?v=P78QYjWh5sM) | [Variational Autoencoder and Extensions](http://videolectures.net/deeplearning2015_courville_autoencoder_extension/?q=aaron%20courville)
 
 - MLSS/SMILES at Skoltech: [youtube](https://www.youtube.com/c/SMILESSummerSchoolofMachineLearningatSK/videos) | [github 2019](https://github.com/mlss-skoltech) | [github 2020](https://github.com/SummerSchoolMachineLearning)
