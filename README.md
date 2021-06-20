@@ -3,34 +3,35 @@ A lot of useful DS links
 
 <a name="table-of-contents"></a>
 ## Table of Contents
-- [Team leading](#team-leading)
-- [Books](#books)
-- [Business](#business)
-- [Courses](#courses)
-- [Lists of Tools](#lists-of-tools)
-- [DS Libraries and Instruments](#ds-libs)
-- [Notebooks](#notebooks)
-  - [General](#general-notebooks)
-  - [Time-Series and Anomaly Detection](#ts-and-ad-notebooks)
-- [General DS Links](#general-ds-links)
-  - [General](#general-ds-links-general)
-  - [Time Series and Anomaly Detection](#ts-and-ad)
-  - [GAN](#gan)
-- [Testing in DS](#testing)
-- [Metrics in DS projects](#metrics)
-- [Causal Inference](#causal)
-- [Reproducibility and Automatization](#repa)
-- [AI Products Architecture](#ai-products-architecture)
-- [Cases of Industrial DS](#cases)
+- [1. Team leading](#team-leading)
+- [2. Books](#books)
+- [3. Business](#business)
+- [4. Courses](#courses)
+  - [4.1 DS schools](#ds-schools)
+- [5. Lists of Tools](#lists-of-tools)
+- [6. DS Libraries and Instruments](#ds-libs)
+- [7. Notebooks](#notebooks)
+  - [7.1 General](#general-notebooks)
+  - [7.2 Time-Series and Anomaly Detection](#ts-and-ad-notebooks)
+- [8. General DS Links](#general-ds-links)
+  - [8.1 General](#general-ds-links-general)
+  - [8.2 Time Series and Anomaly Detection](#ts-and-ad)
+  - [8.3 GAN](#gan)
+- [9. Testing in DS](#testing)
+- [10. Metrics in DS projects](#metrics)
+- [11. Causal Inference](#causal)
+- [12. Reproducibility and Automatization](#repa)
+- [13. AI Products Architecture](#ai-products-architecture)
+- [14. Cases of Industrial DS](#cases)
 
 <a name="team-leading"></a>
-## Team leading
+## 1. Team leading
 - [Лекции по тимлидству](./TeamLeadLectures.md)
 
 - [Требования и обязанности тимлида DS](./TeamLeadSkills.md)
 
 <a name="books"></a>
-## Books
+## 2. Books
 - [Books free downloading service (http://libgen.is/)](http://libgen.is/)
 
 - [All IAEA publications (All techical reviews, etc)](https://www.iaea.org/publications/search?keywords=) | [Operation and maintenance of NNPs](https://www.iaea.org/publications/search/topics/operation-and-maintenance-of-nuclear-power-plants?keywords=) | [Nuclear knowledge management](https://www.iaea.org/publications/search/topics/nuclear-knowledge-management?keywords=)
@@ -40,7 +41,7 @@ A lot of useful DS links
 - Latent Variable Models:	Bishop06
 
 <a name="business"></a>
-## Business (incl. BI)
+## 3. Business (incl. BI)
 - [YCombinator 2017 course on youtube](https://www.youtube.com/watch?v=ZoqgAy3h4OM&list=PLQ-uHSnFig5MiLRb-l6yiCBGyqfVyVf17)
 
 - [Harvard Business Review journal](https://hbr.org)
@@ -55,8 +56,10 @@ A lot of useful DS links
 
 - Алексей Колоколов (Институт бизнес-аналитики) о важности визуализации и как правильно визуализировать информацию и готовить отчеты/дашборды: [Дашборды: интерактивная визуализация данных](https://www.youtube.com/watch?v=ve8aQmE-vBY) | [Монетизация больших данных](https://www.youtube.com/watch?v=3ukGDeaZ7Ao)
 
+- [Стратегия данных и аналитики. Как компании спланировать и внедрить DS/ML](https://www.youtube.com/watch?v=QNV82AvmZvA)
+
 <a name="courses"></a>
-## Courses
+## 4. Courses
 - [Online courses and other DL staff (MIT's Lex Fridman recommendation, fast.ai)](https://www.fast.ai)
 
 - [D. Vetrov Байесовский подход к теории вероятностей. Байесовские рассуждения. Понятие о графических моделях. (поверхностный курс, youtube)](https://www.youtube.com/watch?v=sZxE-BrSMAE)
@@ -99,8 +102,21 @@ A lot of useful DS links
 
 <img src="files/courses.png" alt="courses" width="800" height="380"> 
 
+<a name="ds-schools"></a>
+#### 4.1 DS schools
+- [datagym](https://datagym.ru)
+- [pymagic](https://pymagic.ru)
+- [mipt.nlmk](https://mipt.nlmk.com/?utm_campaign=nlmk-lited&utm_source=emailmipt-coursera&utm_medium=email#plan)
+- [karpov.courses](https://karpov.courses/analytics)
+- [skillbox](https://skillbox.ru/course/profession-machine-learning/)
+- [нетология](https://netology.ru/programs/machine-learn)
+- [skillfactory](https://skillfactory.ru/machine-learning)
+- [ozonmasters](https://ozonmasters.ru)
+- [ШАД](https://yandexdataschool.ru)
+- [OTUS](https://drive.google.com/file/d/1mXyMV4bC0TOQTQDBnTxJgSWu0zXioaph/view)
+
 <a name="lists-of-tools"></a>
-## Lists of Tools
+## 5. Lists of Tools
 - [Awesome Ensemble Learning](https://github.com/yzhao062/awesome-ensemble-learning) - to promote the learning of ensembling, we create this repository with: Books & Academic Papers, Online Courses and Videos, Open-source and Commercial Libraries/Toolboxes and Datasets, Key Conferences & Journals
 
 - [awesome-TS-anomaly-detection](https://github.com/rob-med/awesome-TS-anomaly-detection) - List of tools & datasets for anomaly detection on time-series data
@@ -118,7 +134,7 @@ A lot of useful DS links
 - [70 links on ML (for beginners)](https://habr.com/en/company/spbifmo/blog/276479/)
 
 <a name="ds-libs"></a>
-## DS Libraries and Instruments
+## 6. DS Libraries and Instruments
 - Sktime: a Unified Python Library for Time Series Machine Learning: [towardsdatascience](https://towardsdatascience.com/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55) | [github](https://github.com/alan-turing-institute/sktime) | [youtube](https://www.youtube.com/watch?v=Wf2naBHRo8Q)
 Per the Github page, sktime currently provides:
 ```
@@ -139,10 +155,10 @@ Methods to get the probability of a changepoint in a time series. Both online an
 - [Playing with electricity - forecasting 5000 time series](https://spark-in.me/post/playing-with-electricity) - Applying random forests and deep encoder-decoder RNNs to time series prediction + few anomaly detection links
 
 <a name="notebooks"></a>
-## Notebooks
+## 7. Notebooks
 
 <a name="general-notebooks"></a>
-#### General
+#### 7.1 General
 - [COMPREHENSIVE DATA EXPLORATION WITH PYTHON (kaggle)](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
 
 - [Deep Learning Tutorial for Beginners](https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners)
@@ -160,7 +176,7 @@ Methods to get the probability of a changepoint in a time series. Both online an
 - [Data Visualization: a lot of seaborn plot types in work (kaggle)](https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization)
 
 <a name="ts-and-ad-notebooks"></a>
-#### Time-Series and Anomaly Detection
+#### 7.2 Time-Series and Anomaly Detection
 - [Fraud detection (Summarizing Konstantin Yakovlev’s view of kaggle competition)](https://www.kaggle.com/c/ieee-fraud-detection/discussion/107697#latest-630007)
 
 - [Fraud detection material/comps in Kaggle](https://www.kaggle.com/c/ieee-fraud-detection/discussion/99987)
@@ -180,10 +196,10 @@ Methods to get the probability of a changepoint in a time series. Both online an
 - [Time Series Classification and Clustering (github)](https://github.com/alexminnaar/time-series-classification-and-clustering)
 
 <a name="general-ds-links"></a>
-## General DS Links
+## 8. General DS Links
 
 <a name="general-ds-links-general"></a>
-#### General
+#### 8.1 General
 - [Машинное обучение для людей. Разбираемся простыми словами](https://vas3k.ru/blog/machine_learning/)
 
 - [ods site with ML competitions (from kaggle, drivendata, zindi, etc.)](http://mltrainings.ru)
@@ -222,7 +238,7 @@ Methods to get the probability of a changepoint in a time series. Both online an
   </details>
 
 <a name="ts-and-ad"></a>
-#### Time Series and Anomaly Detection
+#### 8.2 Time Series and Anomaly Detection
 - [Time Series for Everyone Presentation](https://data4sci.com/timeseries)
 
 - [Convert a Time Series to a Supervised Learning Problem](https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/)
@@ -242,7 +258,7 @@ Methods to get the probability of a changepoint in a time series. Both online an
 - [`[RU]` Outlier detection and Isolation forest (youtube)](https://www.youtube.com/watch?v=TOK7Kq7x0yc) | [notebook on github](https://github.com/pileyan/Isolation_trees/blob/main/outliers.ipynb)
 
 <a name="gan"></a>
-#### GAN
+#### 8.3 GAN
 - [Perfect intro (towardsdatascience)](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
 
 - [Repo with pytorch GAN implementations](https://github.com/eriklindernoren/PyTorch-GAN)
@@ -250,7 +266,7 @@ Methods to get the probability of a changepoint in a time series. Both online an
 - [Repo with keras GAN implementations](https://github.com/eriklindernoren/Keras-GAN)
 
 <a name="testing"></a>
-## Testing in DS
+## 9. Testing in DS
 - [`[RU]` Тесты DS кода для прода (Алексей Могильников)](https://www.youtube.com/watch?v=-Jx9gvUV520)
 
 - [`[RU]` Testing for Data Science Hands-on Guide (Julia Antokhina)](https://www.youtube.com/watch?v=u5NxhpjW4To)
@@ -258,7 +274,7 @@ Methods to get the probability of a changepoint in a time series. Both online an
 - [Effective testing for machine learning systems (jeremyjordan.me)](https://www.jeremyjordan.me/testing-ml/) - In this blog post, we'll cover what testing looks like for traditional software development, why testing machine learning systems can be different, and discuss some strategies for writing effective tests for machine learning systems. 
 
 <a name="metrics"></a>
-## Metrics in DS Projects
+## 10. Metrics in DS Projects
 - [`[RU]` DS метрики в прокси и бизнес метрики for Predictive Maintenance (researchgate)](https://www.researchgate.net/publication/327982563_Cost-Sensitive_Learning_for_Predictive_Maintenance)
 
 - [`[RU]` Метрики в DS проектах (youtube)](https://www.youtube.com/watch?v=RnvaybU4SCw), Алексей Могильников, Lead DS (2020)
@@ -266,7 +282,7 @@ Methods to get the probability of a changepoint in a time series. Both online an
 - [`[RU]` Краткий ликбез по ML метрикам и их связи с бизнес-метриками](https://www.youtube.com/watch?v=pDMgvhsUPJM)
 
 <a name="causal"></a>
-## Causal Inference
+## 11. Causal Inference
 - [`[RU]` ODS.ai Causal inference](https://ods.ai/tracks/causal-inference-in-ml-df2020/48dcb402-7d7c-4aa6-893d-d63a34d1092a)
 
 - [`[RU]` [Youtube] Дмитрий Павлов. Сausal Inference в анализе временных рядов](https://www.youtube.com/watch?v=Yr6b8Rpy7Ds) [[arxiv] Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/abs/2102.05829)
@@ -284,7 +300,7 @@ Methods to get the probability of a changepoint in a time series. Both online an
 - [Causal Inference in Data Science From Prediction to Causation by Amit Sharma | DataEngConf NYC '16](https://www.youtube.com/watch?v=6SCoaBo1MqU) - A gentle introduction to causality
 
 <a name="repa"></a>
-## Reproducibility and Automatization
+## 12. Reproducibility and Automatization
 - [Scikit-learn Pipelines](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html) - Scikit-learn's Pipeline class is designed as a manageable way to apply a series of data transformations followed by the application of an estimator.
 
 - [pdpipe](https://towardsdatascience.com/https-medium-com-tirthajyoti-build-pipelines-with-pandas-using-pdpipe-cade6128cd31) - We show how to build intuitive and useful pipelines with Pandas DataFrame using a wonderful little library called pdpipe.
@@ -342,12 +358,12 @@ def Random(seed_value):
 </details>
 
 <a name="ai-products-architecture"></a>
-## AI Products Architecture
+## 13. AI Products Architecture
 - [`[RU]` Архитектура AI продуктов, Михаил Перлин](https://www.youtube.com/watch?v=kbsQRisaJPo) - Архитектура ПО - дисциплина, которая за это отвечает. Что она включает в себя? Каких скиллов и качеств требует? Могут ли DS ею овладеть? Кого звать на помощь, если нужно прямо сейчас? Доклад меньше про технологии и больше про процессы, стратегии и людей.
 
 - [Shortened Volere Requirements Specification Template](https://github.com/ttzt/catalog_of_requirements_for_ai_products)
 
 <a name="cases"></a>
-## Cases of Industrial DS
+## 14. Cases of Industrial DS
 
 - Severstal cases: [ODS](https://www.youtube.com/watch?v=1Ir70moB9aQ&t=1025s), [Boris Voskresenskii: Causal inference for a steel mill](https://www.youtube.com/watch?v=rdxs9c_y0Cw), [towardsdatascience.com: Causal inference for a steel mill](https://towardsdatascience.com/causal-inference-for-a-steel-mill-1e4dff991501), [Severstal Data Science Meetup](https://www.youtube.com/watch?v=6WglJwU-9i4), [Arxiv paper on RL](https://arxiv.org/pdf/2008.06933v1.pdf)
