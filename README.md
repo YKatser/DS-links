@@ -109,6 +109,7 @@ A lot of useful DS links
 - [datagym](https://datagym.ru)
 - [pymagic](https://pymagic.ru)
 - [mipt.nlmk](https://mipt.nlmk.com/?utm_campaign=nlmk-lited&utm_source=emailmipt-coursera&utm_medium=email#plan)
+- [mipt.nornikel](https://www.nornickel-ai-industrial.com)
 - [karpov.courses](https://karpov.courses/analytics)
 - [skillbox](https://skillbox.ru/course/profession-machine-learning/)
 - [нетология](https://netology.ru/programs/machine-learn)
@@ -116,6 +117,7 @@ A lot of useful DS links
 - [ozonmasters](https://ozonmasters.ru)
 - [ШАД](https://yandexdataschool.ru)
 - [OTUS](https://drive.google.com/file/d/1mXyMV4bC0TOQTQDBnTxJgSWu0zXioaph/view)
+- [Elbrus bootcamp](https://elbrusboot.camp/datascience/)
 
 <a name="lists-of-tools"></a>
 ## 5. Lists of Tools
