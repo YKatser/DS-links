@@ -12,7 +12,8 @@ A lot of useful DS links
 - [6. DS Libraries and Instruments](#ds-libs)
 - [7. Notebooks](#notebooks)
   - [7.1 General](#general-notebooks)
-  - [7.2 Time-Series and Anomaly Detection](#ts-and-ad-notebooks)
+  - [7.2 EDA](#eda)
+  - [7.3 Time-Series and Anomaly Detection](#ts-and-ad-notebooks)
 - [8. General DS Links](#general-ds-links)
   - [8.1 General](#general-ds-links-general)
   - [8.2 Time Series and Anomaly Detection](#ts-and-ad)
@@ -163,11 +164,9 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 <a name="general-notebooks"></a>
 #### 7.1 General
-- [COMPREHENSIVE DATA EXPLORATION WITH PYTHON (kaggle)](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
-
 - [Deep Learning Tutorial for Beginners](https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners)
 
-- [model selection (hyperopt), feature engineering, ensembling](https://habr.com/en/company/mailru/blog/321016/)
+- [`[RU]` Model selection (hyperopt), feature engineering, ensembling](https://habr.com/en/company/mailru/blog/321016/)
 
 - [SIMPLE Feature Engineering Techniques (NAN processing, Label Encode/ Factorize/ Memory reduction, Categorical Features, Splitting, Combining / Transforming / Interaction, Aggregations / Group Statistics) (kaggle)](https://www.kaggle.com/c/ieee-fraud-detection/discussion/108575#latest-631133)
 
@@ -179,8 +178,18 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [Data Visualization: a lot of seaborn plot types in work (kaggle)](https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization)
 
+<a name="eda"></a>
+#### 7.2 EDA
+- [[10471 votes] COMPREHENSIVE DATA EXPLORATION WITH PYTHON (kaggle)](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
+
+- [[1992 votes] EDA To Prediction (DieTanic)](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
+
+- [[463 votes] Detailed exploratory data analysis with python](https://www.kaggle.com/ekami66/detailed-exploratory-data-analysis-with-python)
+
+- [[5 votes] EDA Example on SKAB](https://www.kaggle.com/newintown/eda-example)
+
 <a name="ts-and-ad-notebooks"></a>
-#### 7.2 Time-Series and Anomaly Detection
+#### 7.3 Time-Series and Anomaly Detection
 - [Fraud detection (Summarizing Konstantin Yakovlev’s view of kaggle competition)](https://www.kaggle.com/c/ieee-fraud-detection/discussion/107697#latest-630007)
 
 - [Fraud detection material/comps in Kaggle](https://www.kaggle.com/c/ieee-fraud-detection/discussion/99987)
@@ -204,9 +213,9 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 <a name="general-ds-links-general"></a>
 #### 8.1 General
-- [Машинное обучение для людей. Разбираемся простыми словами](https://vas3k.ru/blog/machine_learning/)
+- [`[RU]` Машинное обучение для людей. Разбираемся простыми словами](https://vas3k.ru/blog/machine_learning/)
 
-- [ods site with ML competitions (from kaggle, drivendata, zindi, etc.)](http://mltrainings.ru)
+- [`[RU]` ods site with ML competitions (from kaggle, drivendata, zindi, etc.)](http://mltrainings.ru)
 
 - [Machine Learning with scikit-learn (interactive slides)](http://amueller.github.io/sklearn_tutorial/#/1)
 
@@ -214,11 +223,13 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [Data Science Resources datascienceweekly.org (till 2014)](https://www.datascienceweekly.org/data-science-resources)
 
-- Deep Learning presentation by Sapunov (intento): [Presentation](http://bioinformaticsinstitute.ru/sites/default/files/vvedenie_v_deep_learning.pdf) | [article](https://habr.com/ru/company/oleg-bunin/blog/340184/)
+- `[RU]` Deep Learning presentation by Sapunov (intento): [Presentation](http://bioinformaticsinstitute.ru/sites/default/files/vvedenie_v_deep_learning.pdf) | [article](https://habr.com/ru/company/oleg-bunin/blog/340184/)
 
 - AutoML (NN): [DARTS: Differentiable Architecture Search (Arxiv)](https://arxiv.org/abs/1806.09055) | [DARTS (github](https://github.com/quark0/darts) | [AutoKeras (arxiv)](https://arxiv.org/abs/1806.10282)
 
 - Models stacking: [Dyakonov](https://dyakonov.org/2017/03/10/cтекинг-stacking-и-блендинг-blending/) | [kaggle](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
+
+- [KAGGLE ENSEMBLING GUIDE](https://mlwave.com/kaggle-ensembling-guide/)
 
 - [Data preprocessing for machine learning: options and recommendations (by google)](https://cloud.google.com/solutions/machine-learning/data-preprocessing-for-ml-with-tf-transform-pt1)
 
@@ -255,8 +266,6 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [Condition Monitoring and Predictive Maintenance from MathLAB](https://www.mathworks.com/help/predmaint/gs/designing-algorithms-for-condition-monitoring-and-predictive-maintenance.html?s_eid=PSM_15028)
 
-- [kalman filters for non rocket scientists](https://www.youtube.com/watch?v=k_MpfzMc9PU)
-
 - [(PCA) Machine Learning for Real-Time Anomaly Detection in Network Time-Series Data](https://www.youtube.com/watch?v=0PqzukqMcdA)
 
 - [`[RU]` Outlier detection and Isolation forest (youtube)](https://www.youtube.com/watch?v=TOK7Kq7x0yc) | [notebook on github](https://github.com/pileyan/Isolation_trees/blob/main/outliers.ipynb)
@@ -279,7 +288,7 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 <a name="metrics"></a>
 ## 10. Metrics in DS Projects
-- [`[RU]` DS метрики в прокси и бизнес метрики for Predictive Maintenance (researchgate)](https://www.researchgate.net/publication/327982563_Cost-Sensitive_Learning_for_Predictive_Maintenance)
+- [Model selection based on the economic costs (researchgate)](https://www.researchgate.net/publication/327982563_Cost-Sensitive_Learning_for_Predictive_Maintenance)
 
 - [`[RU]` Метрики в DS проектах (youtube)](https://www.youtube.com/watch?v=RnvaybU4SCw), Алексей Могильников, Lead DS (2020)
 
