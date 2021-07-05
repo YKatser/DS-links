@@ -208,6 +208,10 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [Time Series Classification and Clustering (github)](https://github.com/alexminnaar/time-series-classification-and-clustering)
 
+- [Time Series forecating (tensorflow guide)](https://www.tensorflow.org/tutorials/structured_data/time_series)
+
+- [Intro to Autoencoders and anomaly detection with tensorflow](https://www.tensorflow.org/tutorials/generative/autoencoder) | [youtube video on the notebook](https://www.youtube.com/watch?v=2K3ScZp1dXQ)
+
 <a name="general-ds-links"></a>
 ## 8. General DS Links
 
