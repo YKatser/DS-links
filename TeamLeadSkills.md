@@ -25,3 +25,8 @@
 - Уметь провести ML проект от самого зарождения до успешного внедрения (Опыт разработки и вывода DS решений в прод)
 - Будет плюсом опыт работы с данными и построения моделей для решения задач реального сектора экономики (металлургия, нефтегаз, машиностроение и т.п.).
 - Приветствуется успешное участие в чемпионатах по машинному обучению (например, Kaggle)
+
+## О Data science ролях
+- [Machine Learning Engineer vs Data Scientist (Is Data Science Over?)](https://towardsdatascience.com/mlevsds-3c89425baabb)
+- [Roles in Data Science Teams](https://www.youtube.com/watch?v=m5hLUknIi5c)
+- [Почему вы никогда не найдете Дата Саентиста – Валерий Бабушкин](https://www.youtube.com/watch?v=Cs3ae65tmKA&t=94s)
