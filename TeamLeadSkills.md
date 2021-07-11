@@ -27,6 +27,7 @@
 - Приветствуется успешное участие в чемпионатах по машинному обучению (например, Kaggle)
 
 ## О Data science ролях
+- [Чем отличаются data analyst, data engineer и data scientist – Алексей Натёкин](https://www.youtube.com/watch?app=desktop&v=lDkTNURDIaY)
+- [Почему вы никогда не найдете Дата Саентиста – Валерий Бабушкин](https://www.youtube.com/watch?v=Cs3ae65tmKA&t=94s)
 - [Machine Learning Engineer vs Data Scientist (Is Data Science Over?)](https://towardsdatascience.com/mlevsds-3c89425baabb)
 - [Roles in Data Science Teams](https://www.youtube.com/watch?v=m5hLUknIi5c)
-- [Почему вы никогда не найдете Дата Саентиста – Валерий Бабушкин](https://www.youtube.com/watch?v=Cs3ae65tmKA&t=94s)
