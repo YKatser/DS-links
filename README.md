@@ -168,6 +168,8 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [`[RU]` Model selection (hyperopt), feature engineering, ensembling](https://habr.com/en/company/mailru/blog/321016/)
 
+- [`[RU]` Categorical Variable Encoding и построение моделей второго уровня](https://www.youtube.com/watch?v=xfKui8OR2dc)
+
 - [SIMPLE Feature Engineering Techniques (NAN processing, Label Encode/ Factorize/ Memory reduction, Categorical Features, Splitting, Combining / Transforming / Interaction, Aggregations / Group Statistics) (kaggle)](https://www.kaggle.com/c/ieee-fraud-detection/discussion/108575#latest-631133)
 
 - [Statistical Learning Tutorial for Beginners (incl. CDF) (kaggle)](https://www.kaggle.com/kanncaa1/statistical-learning-tutorial-for-beginners)
@@ -266,7 +268,9 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [Irregular time series and how to whip them (youtube)](https://www.youtube.com/watch?v=E4NMZyfao2c)
 
-- LSTM: [about](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) | [about+code](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks) | [youtube (Kaspersky presentational)](https://www.youtube.com/watch?v=QbXVUHhZVVY&feature=youtu.be) | [code (Forecasting with LSTMs in Keras)](https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/) | [code (LSTM Models)](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/) | [LSTM AE](https://machinelearningmastery.com/lstm-autoencoders/) | [VAR vs LSTM](https://www.youtube.com/watch?v=_vQ0W_qXMxk)
+- [[VAR vs LSTM] Time Series Forecasting using Statistical and Machine Learning Models](https://www.youtube.com/watch?v=_vQ0W_qXMxk)
+
+- LSTM: [about](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) | [about+code](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks) | [youtube (Kaspersky presentational)](https://www.youtube.com/watch?v=QbXVUHhZVVY&feature=youtu.be) | [code (Forecasting with LSTMs in Keras)](https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/) | [code (LSTM Models)](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/) | [LSTM AE](https://machinelearningmastery.com/lstm-autoencoders/)
 
 - [Condition Monitoring and Predictive Maintenance from MathLAB](https://www.mathworks.com/help/predmaint/gs/designing-algorithms-for-condition-monitoring-and-predictive-maintenance.html?s_eid=PSM_15028)
 
