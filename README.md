@@ -20,7 +20,7 @@ A lot of useful DS links
   - [8.3 GAN](#gan)
 - [9. Testing in DS](#testing)
 - [10. Metrics in DS projects](#metrics)
-- [11. Causal Inference](#causal)
+- [11. Causal Inference and Explainable AI](#causal)
 - [12. Reproducibility and Automatization](#repa)
 - [13. AI Products Architecture](#ai-products-architecture)
 - [14. Cases of Industrial DS](#cases)
@@ -303,7 +303,7 @@ Methods to get the probability of a changepoint in a time series. Both online an
 - [`[RU]` Краткий ликбез по ML метрикам и их связи с бизнес-метриками](https://www.youtube.com/watch?v=pDMgvhsUPJM)
 
 <a name="causal"></a>
-## 11. Causal Inference
+## 11. Causal Inference and Explainable AI
 - [`[RU]` ODS.ai Causal inference](https://ods.ai/tracks/causal-inference-in-ml-df2020/48dcb402-7d7c-4aa6-893d-d63a34d1092a)
 
 - [`[RU]` [Youtube] Дмитрий Павлов. Сausal Inference в анализе временных рядов](https://www.youtube.com/watch?v=Yr6b8Rpy7Ds) [[arxiv] Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/abs/2102.05829)
@@ -319,6 +319,8 @@ Methods to get the probability of a changepoint in a time series. Both online an
 - [Inferring causality in time series data](https://towardsdatascience.com/inferring-causality-in-time-series-data-b8b75fe52c46?#5771) - A concise review of the major approaches. (+ [video on youtube](https://www.youtube.com/watch?v=QVQoV22pPak))
 
 - [Causal Inference in Data Science From Prediction to Causation by Amit Sharma | DataEngConf NYC '16](https://www.youtube.com/watch?v=6SCoaBo1MqU) - A gentle introduction to causality
+
+- [Introduction to Explainable AI (ML Tech Talks)](https://youtu.be/6xePkn3-LME) - This talk introduces the field of Explainable AI, outlines a taxonomy of ML interpretability methods, walks through an implementation deepdive of Integrated Gradients, and concludes with discussion on picking attribution baselines and future research directions.
 
 <a name="repa"></a>
 ## 12. Reproducibility and Automatization
@@ -386,5 +388,4 @@ def Random(seed_value):
 
 <a name="cases"></a>
 ## 14. Cases of Industrial DS
-
 - Severstal cases: [ODS](https://www.youtube.com/watch?v=1Ir70moB9aQ&t=1025s), [Boris Voskresenskii: Causal inference for a steel mill](https://www.youtube.com/watch?v=rdxs9c_y0Cw), [towardsdatascience.com: Causal inference for a steel mill](https://towardsdatascience.com/causal-inference-for-a-steel-mill-1e4dff991501), [Severstal Data Science Meetup](https://www.youtube.com/watch?v=6WglJwU-9i4), [Arxiv paper on RL](https://arxiv.org/pdf/2008.06933v1.pdf)
