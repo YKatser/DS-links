@@ -107,6 +107,7 @@ A lot of useful DS links
 
 <a name="ds-schools"></a>
 #### 4.1 DS schools
+- [Курс-интенсив по созданию ML-продуктов](https://maths-h.com/ru/mlprototype?utm=timepad.ru_workshop)
 - [datagym](https://datagym.ru)
 - [pymagic](https://pymagic.ru)
 - [mipt.nlmk](https://mipt.nlmk.com/?utm_campaign=nlmk-lited&utm_source=emailmipt-coursera&utm_medium=email#plan)
