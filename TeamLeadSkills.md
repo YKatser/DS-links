@@ -1,3 +1,5 @@
+[Home assignments for data science positions](https://github.com/slgero/testovoe) - Здесь собраны тестовые задания от разных компаний, на позицию, связанную с Data Scientist и материалы для подготовки к собеседованию.
+
 *На основе 4х вакансий из ODS*
 
 ## Обязанности
