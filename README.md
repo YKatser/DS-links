@@ -120,6 +120,7 @@ A lot of useful DS links
 - [ШАД](https://yandexdataschool.ru)
 - [OTUS](https://drive.google.com/file/d/1mXyMV4bC0TOQTQDBnTxJgSWu0zXioaph/view)
 - [Elbrus bootcamp](https://elbrusboot.camp/datascience/)
+- [Made. Академия больших данных](https://data.mail.ru)
 
 <a name="lists-of-tools"></a>
 ## 5. Lists of Tools
