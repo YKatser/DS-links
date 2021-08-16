@@ -116,11 +116,13 @@ A lot of useful DS links
 - [skillbox](https://skillbox.ru/course/profession-machine-learning/)
 - [нетология](https://netology.ru/programs/machine-learn)
 - [skillfactory](https://skillfactory.ru/machine-learning)
-- [ozonmasters](https://ozonmasters.ru)
-- [ШАД](https://yandexdataschool.ru)
+- [ozonmasters](https://ozonmasters.ru) by ozon
+- [ШАД](https://yandexdataschool.ru) by yandex
 - [OTUS](https://drive.google.com/file/d/1mXyMV4bC0TOQTQDBnTxJgSWu0zXioaph/view)
 - [Elbrus bootcamp](https://elbrusboot.camp/datascience/)
-- [Made. Академия больших данных](https://data.mail.ru)
+- [Made. Академия больших данных](https://data.mail.ru) by mail.ru
+- [Stepik academy](https://academy.stepik.org) by stepik
+- [Sky pro](https://sky.pro/) by skyeng
 
 <a name="lists-of-tools"></a>
 ## 5. Lists of Tools
