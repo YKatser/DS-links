@@ -148,6 +148,8 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [Playing with electricity - forecasting 5000 time series](https://spark-in.me/post/playing-with-electricity) - Applying random forests and deep encoder-decoder RNNs to time series prediction + few anomaly detection links
 
+- [AutoML for time series (FEDOT)](https://towardsdatascience.com/automl-for-time-series-definitely-a-good-idea-c51d39b2b3f) - Approaches for time series forecasting using AutoML and example of the forecast obtained in the automated way
+
 <a name="notebooks"></a>
 ## 7. Notebooks
 
