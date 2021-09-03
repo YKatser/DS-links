@@ -107,29 +107,7 @@ A lot of useful DS links
 
 <a name="ds-schools"></a>
 #### 4.1 DS schools
-- [Курс-интенсив по созданию ML-продуктов](https://maths-h.com/ru/mlprototype?utm=timepad.ru_workshop)
-- [datagym](https://datagym.ru)
-- [pymagic](https://pymagic.ru)
-- [mipt.nlmk](https://mipt.nlmk.com/?utm_campaign=nlmk-lited&utm_source=emailmipt-coursera&utm_medium=email#plan)
-- [mipt.nornikel](https://www.nornickel-ai-industrial.com)
-- [karpov.courses](https://karpov.courses/analytics)
-- [skillbox](https://skillbox.ru/course/profession-machine-learning/)
-- [нетология](https://netology.ru/programs/machine-learn)
-- [skillfactory](https://skillfactory.ru/machine-learning)
-- [ozonmasters](https://ozonmasters.ru) by ozon
-- [ШАД](https://yandexdataschool.ru) by yandex
-- [OTUS](https://drive.google.com/file/d/1mXyMV4bC0TOQTQDBnTxJgSWu0zXioaph/view)
-- [Elbrus bootcamp](https://elbrusboot.camp/datascience/)
-- [Made. Академия больших данных](https://data.mail.ru) by mail.ru
-- [Stepik academy](https://academy.stepik.org) by stepik
-- [Sky pro](https://sky.pro/) by skyeng
-- [Innopolis](https://stc.innopolis.university/pcs?utm_source=Instagram_Feed&utm_medium=23848087057560275&utm_campaign=23848091249950275&utm_content=23848091249920275&fbclid=PAAaaDrH_1Cv_8ngBinqqJLh0Ez4WwFj4RrlMFtVFSAiCuQ0kZcxlaCY_DdVw_aem_ASaWKIAUBYL_e8oyuf8webWHS6u1T9U6EAttk3vCfpM01JJH8MZQusdP9ZXz23Oc616duNLcsgCUiNSDn_iGEtjKRIbX5oU8b4YvoCi8cgY-kAvQiM4n-NX2yiSJQeiWdpw) by innopolis university
-- [Онлайн-институт цифровых навыков](https://firstdigital.institute)
-- [New Professions Lab](https://newprolab.com/ru/bigdata/?utm_source=telegram&utm_medium=cpm&utm_campaign=bigdata&utm_term=ai_machinelearning_big_data)
-- [Neural University](https://intensive.neural-university.ru/?rs=facebook24_%7B%7Bcampaign.id%7D%7D_%7B%7Badset.id%7D%7D_%7B%7Bad.id%7D%7D)
-- [Synergy Academy](https://synergyacademy.com/) by synergy university
-- [Центр непрерывного образования](https://cs.hse.ru/dpo/analyst?utm_source=insta&utm_medium=cpc&utm_campaign=andan1) by HSE
-- [Master of Data and Network Analytics](https://hse-mdna.com) by HSE
+- [Школы и курсы по машинному обучению](./DS-schools.md)
 
 <a name="lists-of-tools"></a>
 ## 5. Lists of Tools
