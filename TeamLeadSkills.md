@@ -1,5 +1,9 @@
 [Home assignments for data science positions](https://github.com/slgero/testovoe) - Здесь собраны тестовые задания от разных компаний, на позицию, связанную с Data Scientist и материалы для подготовки к собеседованию.
 
+[Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) - This book is not a replacement to machine learning textbooks nor a shortcut to game the interviews. It’s a tool to consolidate your existing theoretical and practical knowledge in machine learning. The questions in this book can also help identify your blind/weak spots. Each topic is accompanied by resources that should help you strengthen your understanding of that topic.
+
+[30 open-ended questions](https://huyenchip.com/machine-learning-systems-design/toc.html) - This part contains 27 open-ended questions that test your ability to put together what you've learned to design systems to solve practical problems.
+
 *На основе 4х вакансий из ODS*
 
 ## Обязанности
