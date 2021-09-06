@@ -224,6 +224,8 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - AutoML (NN): [DARTS: Differentiable Architecture Search (Arxiv)](https://arxiv.org/abs/1806.09055) | [DARTS (github](https://github.com/quark0/darts) | [AutoKeras (arxiv)](https://arxiv.org/abs/1806.10282)
 
+- Recommendation systems: [youtube workshop by OTUS school](https://www.youtube.com/watch?v=1XOk_AR2ySw&t=12s) | [Habr post](https://habr.com/ru/company/surfingbird/blog/139518/)
+
 - Models stacking: [Dyakonov](https://dyakonov.org/2017/03/10/cтекинг-stacking-и-блендинг-blending/) | [kaggle](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
 
 - [KAGGLE ENSEMBLING GUIDE](https://mlwave.com/kaggle-ensembling-guide/)
