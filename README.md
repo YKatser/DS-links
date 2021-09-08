@@ -222,6 +222,8 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - `[RU]` Deep Learning presentation by Sapunov (intento): [Presentation](http://bioinformaticsinstitute.ru/sites/default/files/vvedenie_v_deep_learning.pdf) | [article](https://habr.com/ru/company/oleg-bunin/blog/340184/)
 
+- `[RU]` [ROADMAP НЕЙРОННЫЕ СЕТИ](https://www.youtube.com/watch?v=cq6dUisDeUU&t=35s): где применяются нейронные сети сегодня и как аналитику данных начать их изучение.
+
 - AutoML (NN): [DARTS: Differentiable Architecture Search (Arxiv)](https://arxiv.org/abs/1806.09055) | [DARTS (github](https://github.com/quark0/darts) | [AutoKeras (arxiv)](https://arxiv.org/abs/1806.10282)
 
 - Recommendation systems: [youtube workshop by OTUS school](https://www.youtube.com/watch?v=1XOk_AR2ySw&t=12s) | [Habr post](https://habr.com/ru/company/surfingbird/blog/139518/)
@@ -231,8 +233,6 @@ Methods to get the probability of a changepoint in a time series. Both online an
 - [KAGGLE ENSEMBLING GUIDE](https://mlwave.com/kaggle-ensembling-guide/)
 
 - [Data preprocessing for machine learning: options and recommendations (by google)](https://cloud.google.com/solutions/machine-learning/data-preprocessing-for-ml-with-tf-transform-pt1)
-
-- [Deep Image Prior (DIP)](https://dmitryulyanov.github.io/deep_image_prior)
 
 - [`[RU]` Кросс-валидация с оценкой значимости изменения и обработкой выбросов (Данила Савенков), youtube (Kaggle Mercedes Benz)](https://www.youtube.com/watch?v=HT3QpRp2ewA)
 
