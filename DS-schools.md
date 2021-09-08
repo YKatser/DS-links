@@ -30,8 +30,9 @@
 | [Made. Академия больших данных](https://data.mail.ru) by mail.ru | бесплатно | 1,5 года | 3 роли: Data Scientist, Machine Learning Engineer, Data Engineer |
 
 # Магистратуры
-- [mipt.nlmk](https://mipt.nlmk.com/?utm_campaign=nlmk-lited&utm_source=emailmipt-coursera&utm_medium=email#plan)
-- [mipt.nornikel](https://www.nornickel-ai-industrial.com)
+- [Системы машинного обучения для умного производства by MIPT and NLMK](https://mipt.nlmk.com)
+- [AI TRANSFORMATION В ПРОМЫШЛЕННОСТИ by MIPT and Nornikel](https://www.nornickel-ai-industrial.com)
+- [Онлайн-магистратура "Инженерия машинного обучения" by UrFU and SkillFactory](https://zavtra.online/urfu-machine-learning)
 
 # Площадки с бесплатными курсами
 - [Онлайн-институт цифровых навыков](https://firstdigital.institute)
