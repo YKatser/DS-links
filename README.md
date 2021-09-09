@@ -37,6 +37,8 @@ A lot of useful DS links
 
 - [All IAEA publications (All techical reviews, etc)](https://www.iaea.org/publications/search?keywords=) | [Operation and maintenance of NNPs](https://www.iaea.org/publications/search/topics/operation-and-maintenance-of-nuclear-power-plants?keywords=) | [Nuclear knowledge management](https://www.iaea.org/publications/search/topics/nuclear-knowledge-management?keywords=)
 
+- [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) by by Roger R. Labbe - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
+
 - Bayesian Inference & Graphical Models: Koller09
 
 - Latent Variable Models:	Bishop06
