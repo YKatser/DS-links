@@ -105,6 +105,8 @@ A lot of useful DS links
 
 - [Reinforcement Learning Course at ASU, Spring, 2021 (youtube)](https://www.youtube.com/playlist?list=PLmH30BG15SIp79JRJ-MVF12uvB1qPtPzn)
 
+- [Цифровое производство by Цифра](https://proizvodstvo.zyfra.com/2.0/)
+
 <img src="files/courses.png" alt="courses" width="800" height="380"> 
 
 <a name="ds-schools"></a>
