@@ -71,6 +71,10 @@ A lot of useful DS links
 
 - ✅[K. Vorontsov course on ML (2007)](http://www.ccas.ru/voron/teaching.html#ML)
 
+- ✅[Введение в машинное обучение By HSE University and Yandex School of Data Analysis](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
+
+- ✅[Демо KarpovCourses Аналитик данных](https://stepik.org/course/74457/syllabus)
+
 - [E. Sokolov course on ML (semi-beginners, github)](https://github.com/esokolov/ml-course-hse/tree/master/2016-fall/lecture-notes)
 
 - [Statistical forecasting: notes on regression and time series analysis (duke)](https://people.duke.edu/~rnau/411home.htm)
@@ -105,13 +109,17 @@ A lot of useful DS links
 
 - [Reinforcement Learning Course at ASU, Spring, 2021 (youtube)](https://www.youtube.com/playlist?list=PLmH30BG15SIp79JRJ-MVF12uvB1qPtPzn)
 
-- [Цифровое производство by Цифра](https://proizvodstvo.zyfra.com/2.0/)
+- [Цифровое производство: онлайн-практикум by Цифра v1.0](https://stepik.org/course/55100/syllabus)
+
+- [Цифровое производство by Цифра v2.0](https://proizvodstvo.zyfra.com/2.0/)
+
+- [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course) - Google's fast-paced, practical introduction to machine learning
 
 <img src="files/courses.png" alt="courses" width="800" height="380"> 
 
 <a name="ds-schools"></a>
 #### 4.1 DS schools
-- [Школы и курсы по машинному обучению](./DS-schools.md)
+- [Школы и платные курсы по машинному обучению](./DS-schools.md)
 
 <a name="lists-of-tools"></a>
 ## 5. Lists of Tools
