@@ -7,7 +7,8 @@
 | [Data science. Машинное обучение.](https://school.napoleonit.ru/machine-learning) by NapoleonIT | 37.000 ₽ | 2,5 месяца | Для начинающих DS, программистов, аналитиков | + | - |
 | [karpov.courses](https://karpov.courses/analytics) Аналитик данных | 70.000 ₽ | 5 месяцев | СТАРТ КАРЬЕРЫ | - | [+](https://karpov.courses/b2b) |
 | [karpov.courses](https://karpov.courses/ml-hard) Hard ML | 150.000 ₽ | 5 месяцев | ПОЛНЫЙ ЦИКЛ РАЗРАБОТКИ ML-ПРИЛОЖЕНИЯ | - | [+](https://karpov.courses/b2b) |
-| [skillbox](https://skillbox.ru/course/profession-machine-learning/) | 224.000 ₽ (134.000 ₽ со скидкой) | 2 года | Machine learning and Data science | - | - |
+| [Machine Learning Engineer](https://skillbox.ru/course/profession-machine-learning/) by skillbox | 224.000 ₽ (134.000 ₽ со скидкой) | 2 года | Machine learning and Data science | - | - |
+| [Профессия Data Scientist PRO](https://skillbox.ru/course/profession-data-scientist/) by skillbox | 236.000 ₽ (141.000 ₽ со скидкой) | 2 года | Machine learning and Data science | - | - |
 | [нетология](https://netology.ru/programs/machine-learn) | 70.000 ₽ (49 000 ₽ со скидкой) | 6 месяцев | machine learning | + | [+](https://netology.ru/b2b) |
 | [skillfactory](https://skillfactory.ru/machine-learning) Курс по машинному обучению | 63.000 ₽ (36.900 ₽) | 12 недель | machine learning | + | + |
 | [skillfactory](https://skillfactory.ru/data-scientist-pro) Профессия Data Scientist | от 165.000 ₽ до 568.000 ₽ | 24 недели | machine learning от джуна до мидла | - | + |
