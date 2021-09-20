@@ -23,6 +23,7 @@
 | [Data science](https://synergyacademy.com/cp/isa-datascientist) by Synergy Academy | ? | 6 месяцев | Data science | - | - |
 | [Центр непрерывного образования](https://cs.hse.ru/dpo/analyst?utm_source=insta&utm_medium=cpc&utm_campaign=andan1) by HSE | 360 000 ₽ | 12 месяцев | Аналитик данных | - | - |
 | [Master of Data and Network Analytics](https://hse-mdna.com) by HSE | ? | 18–22 месяца | АНАЛИЗ СЕТЕВЫХ ДАННЫХ, БИЗНЕС АНАЛИТИКА | - | - |
+| [Python для Data Science](https://robotdreams.cc/course/python-for-big-data) by [laba](https://l-a-b-a.com/), [другие курсы](https://robotdreams.cc/course) | ? | 2 месяца | Работать с сырыми данными, автоматизировать процесс анализа и визуализации, валидировать гипотезы и строить простые ML-модели | - | - |
 
 # Школы и академии
 | Название и ссылка | Стоимость | Длительность | Тема |
