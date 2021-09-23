@@ -75,6 +75,8 @@ A lot of useful DS links
 
 - ✅[Демо KarpovCourses Аналитик данных](https://stepik.org/course/74457/syllabus)
 
+- Data Mining in Action: [youtube](https://www.youtube.com/channel/UCop3CelRVvrchG5lsPyxvHg/videos) | [github](https://github.com/data-mining-in-action)
+
 - [E. Sokolov course on ML (semi-beginners, github)](https://github.com/esokolov/ml-course-hse/tree/master/2016-fall/lecture-notes)
 
 - [Statistical forecasting: notes on regression and time series analysis (duke)](https://people.duke.edu/~rnau/411home.htm)
