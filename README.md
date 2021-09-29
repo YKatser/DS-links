@@ -396,3 +396,5 @@ def Random(seed_value):
 <a name="cases"></a>
 ## 14. Cases of Industrial DS
 - Severstal cases: [ODS](https://www.youtube.com/watch?v=1Ir70moB9aQ&t=1025s), [Boris Voskresenskii: Causal inference for a steel mill](https://www.youtube.com/watch?v=rdxs9c_y0Cw), [towardsdatascience.com: Causal inference for a steel mill](https://towardsdatascience.com/causal-inference-for-a-steel-mill-1e4dff991501), [Severstal Data Science Meetup](https://www.youtube.com/watch?v=6WglJwU-9i4), [Arxiv paper on RL](https://arxiv.org/pdf/2008.06933v1.pdf)
+
+- [Кейсы. Внедрение искусственного интеллекта в промышленности](https://www.youtube.com/watch?v=sbwW3Y0PRRo)
