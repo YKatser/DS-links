@@ -24,6 +24,9 @@
 | [Центр непрерывного образования](https://cs.hse.ru/dpo/analyst?utm_source=insta&utm_medium=cpc&utm_campaign=andan1) by HSE | 360 000 ₽ | 12 месяцев | Аналитик данных | - | - |
 | [Master of Data and Network Analytics](https://hse-mdna.com) by HSE | ? | 18–22 месяца | АНАЛИЗ СЕТЕВЫХ ДАННЫХ, БИЗНЕС АНАЛИТИКА | - | - |
 | [Python для Data Science](https://robotdreams.cc/course/python-for-big-data) by [laba](https://l-a-b-a.com/), [другие курсы](https://robotdreams.cc/course) | ? | 2 месяца | Работать с сырыми данными, автоматизировать процесс анализа и визуализации, валидировать гипотезы и строить простые ML-модели | - | - |
+| [Data Science курс с нуля](https://dataworkshop.ru/kurs/data-science) | 262 евро | 4 недели | Основы машинного обучения | - | - |
+| [Анализ данных на Python](https://brainskills.live/) | 990 р в месяц | 65 занятий | анализ данных и нейросети | - | - |
+| [Анализ данных на языке Python](https://www.avalon.ru/Retraining/Programs/Python-Data-Analysis/) by Политех | 95.000 ₽ | 9 месяцев | Аналитика, Data Science, Data Engineering | - | - |
 
 # Школы и академии
 | Название и ссылка | Стоимость | Длительность | Тема |
