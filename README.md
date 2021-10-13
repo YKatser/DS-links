@@ -7,7 +7,9 @@ A lot of useful DS links
 - [2. Books](#books)
 - [3. Business](#business)
 - [4. Courses](#courses)
-  - [4.1 DS schools](#ds-schools)
+  - [4.1 Business courses](#business-courses)
+  - [4.2 DS, ML, dev courses](#ds-courses)
+  - [4.3 DS schools](#ds-schools)
 - [5. Lists of Tools](#lists-of-tools)
 - [6. DS Libraries and Instruments](#ds-libs)
 - [7. Notebooks](#notebooks)
@@ -45,15 +47,9 @@ A lot of useful DS links
 
 <a name="business"></a>
 ## 3. Business (incl. BI)
-- [YCombinator 2017 course on youtube](https://www.youtube.com/watch?v=ZoqgAy3h4OM&list=PLQ-uHSnFig5MiLRb-l6yiCBGyqfVyVf17)
-
 - [Harvard Business Review journal](https://hbr.org)
 
-- [Курсы от Сбербанка и Гугла «Бизнес-класс»](https://bc2.business-class.pro)
-
 - [Агрегатор всех источников поддержки вашего бизнеса от Rusbase](https://rb.ru/chance/)
-
-- [Data Science for Business (Курс от ВШЭ, Леонид Жуков)](http://www.leonidzhukov.net/hse/2020/datascience/)
 
 - [54 лучших (DS) инструмента создания аналитических отчетов для бизнеса](https://vc.ru/services/117222-54-luchshih-instrumenta-sozdaniya-analiticheskih-otchetov-dlya-biznesa)
 
@@ -63,6 +59,26 @@ A lot of useful DS links
 
 <a name="courses"></a>
 ## 4. Courses
+<a name="business-courses"></a>
+#### 4.1 Business courses
+- [YCombinator 2017 course on youtube](https://www.youtube.com/watch?v=ZoqgAy3h4OM&list=PLQ-uHSnFig5MiLRb-l6yiCBGyqfVyVf17)
+
+- [Курсы от Сбербанка и Гугла «Бизнес-класс»](https://bc2.business-class.pro)
+
+- [Data Science for Business (Курс от ВШЭ, Леонид Жуков)](http://www.leonidzhukov.net/hse/2020/datascience/)
+
+- [Business Metrics for Data-Driven Companies (coursera course)](https://www.coursera.org/learn/analytics-business-metrics#syllabus)
+
+- [Цифровое производство: онлайн-практикум by Цифра v1.0](https://stepik.org/course/55100/syllabus)
+
+- [Цифровое производство by Цифра v2.0](https://proizvodstvo.zyfra.com/2.0/)
+
+- [The hidden value – Lean in manufacturing and services by École des Ponts ParisTech and BCG](https://www.coursera.org/learn/lean-manufacturing-services?)
+
+- [Digital Transformation by University of Virginia and BCG](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation)
+
+<a name="ds-courses"></a>
+#### 4.2 DS, ML, dev courses
 - [Online courses and other DL staff (MIT's Lex Fridman recommendation, fast.ai)](https://www.fast.ai)
 
 - [D. Vetrov Байесовский подход к теории вероятностей. Байесовские рассуждения. Понятие о графических моделях. (поверхностный курс, youtube)](https://www.youtube.com/watch?v=sZxE-BrSMAE)
@@ -105,24 +121,18 @@ A lot of useful DS links
 
 - ✅[Обзорный курс LeanDS](https://leands-video-course.thinkific.com/courses/take/leands-mini-course/texts/19443404-leands#)
 
-- [Business Metrics for Data-Driven Companies (coursera course)](https://www.coursera.org/learn/analytics-business-metrics#syllabus)
-
 - ✅[MLOps Tutorials by DVC](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz)
 
 - [Samsung Innovation Campus - AI Lectorium](https://www.youtube.com/playlist?list=PLJEYfuHbcEIB-DdeoWaQ6Bzt0903kbmWK)
 
 - [Reinforcement Learning Course at ASU, Spring, 2021 (youtube)](https://www.youtube.com/playlist?list=PLmH30BG15SIp79JRJ-MVF12uvB1qPtPzn)
 
-- [Цифровое производство: онлайн-практикум by Цифра v1.0](https://stepik.org/course/55100/syllabus)
-
-- [Цифровое производство by Цифра v2.0](https://proizvodstvo.zyfra.com/2.0/)
-
 - [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course) - Google's fast-paced, practical introduction to machine learning
 
 <img src="files/courses.png" alt="courses" width="800" height="380"> 
 
 <a name="ds-schools"></a>
-#### 4.1 DS schools
+#### 4.3 DS schools
 - [Школы и платные курсы по машинному обучению](./DS-schools.md)
 
 <a name="lists-of-tools"></a>
