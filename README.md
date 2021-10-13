@@ -41,10 +41,6 @@ A lot of useful DS links
 
 - [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) by by Roger R. Labbe - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
 
-- Bayesian Inference & Graphical Models: Koller09
-
-- Latent Variable Models:	Bishop06
-
 <a name="business"></a>
 ## 3. Business (incl. BI)
 - [Harvard Business Review journal](https://hbr.org)
