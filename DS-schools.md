@@ -27,6 +27,7 @@
 | [Data Science курс с нуля](https://dataworkshop.ru/kurs/data-science) | 262 евро | 4 недели | Основы машинного обучения | - | - |
 | [Анализ данных на Python](https://brainskills.live/) | 990 р в месяц | 65 занятий | анализ данных и нейросети | - | - |
 | [Анализ данных на языке Python](https://www.avalon.ru/Retraining/Programs/Python-Data-Analysis/) by Политех | 95.000 ₽ | 9 месяцев | Аналитика, Data Science, Data Engineering | - | - |
+| [DATA SCIENTIST](https://fpmi-edu.ru/datascience) by MIPT | 195.000 ₽ | 9 месяцев | Python, математика, анализ данных | - | - |
 
 # Школы и академии
 | Название и ссылка | Стоимость | Длительность | Тема |
