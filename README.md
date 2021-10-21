@@ -29,9 +29,9 @@ A lot of useful DS links
 
 <a name="team-leading"></a>
 ## 1. Team leading
-- [Лекции по тимлидству](./TeamLeadLectures.md)
+- `[RU]` [Лекции по тимлидству](./TeamLeadLectures.md)
 
-- [Требования и обязанности тимлида DS](./TeamLeadSkills.md)
+- `[RU]` [Требования и обязанности тимлида DS](./TeamLeadSkills.md)
 
 <a name="books"></a>
 ## 2. Books
@@ -45,29 +45,29 @@ A lot of useful DS links
 ## 3. Business (incl. BI)
 - [Harvard Business Review journal](https://hbr.org)
 
-- [Агрегатор всех источников поддержки вашего бизнеса от Rusbase](https://rb.ru/chance/)
+- `[RU]` [Агрегатор всех источников поддержки вашего бизнеса от Rusbase](https://rb.ru/chance/)
 
-- [54 лучших (DS) инструмента создания аналитических отчетов для бизнеса](https://vc.ru/services/117222-54-luchshih-instrumenta-sozdaniya-analiticheskih-otchetov-dlya-biznesa)
+- `[RU]` [54 лучших (DS) инструмента создания аналитических отчетов для бизнеса](https://vc.ru/services/117222-54-luchshih-instrumenta-sozdaniya-analiticheskih-otchetov-dlya-biznesa)
 
-- Алексей Колоколов (Институт бизнес-аналитики) о важности визуализации и как правильно визуализировать информацию и готовить отчеты/дашборды: [Дашборды: интерактивная визуализация данных](https://www.youtube.com/watch?v=ve8aQmE-vBY) | [Монетизация больших данных](https://www.youtube.com/watch?v=3ukGDeaZ7Ao)
+- `[RU]` Алексей Колоколов (Институт бизнес-аналитики) о важности визуализации и как правильно визуализировать информацию и готовить отчеты/дашборды: [Дашборды: интерактивная визуализация данных](https://www.youtube.com/watch?v=ve8aQmE-vBY) | [Монетизация больших данных](https://www.youtube.com/watch?v=3ukGDeaZ7Ao)
 
-- [Стратегия данных и аналитики. Как компании спланировать и внедрить DS/ML](https://www.youtube.com/watch?v=QNV82AvmZvA)
+- `[RU]` [Стратегия данных и аналитики. Как компании спланировать и внедрить DS/ML](https://www.youtube.com/watch?v=QNV82AvmZvA)
 
 <a name="courses"></a>
 ## 4. Courses
 <a name="business-courses"></a>
 #### 4.1 Business courses
-- [YCombinator 2017 course on youtube](https://www.youtube.com/watch?v=ZoqgAy3h4OM&list=PLQ-uHSnFig5MiLRb-l6yiCBGyqfVyVf17)
+- `[RU]` [YCombinator 2017 course on youtube](https://www.youtube.com/watch?v=ZoqgAy3h4OM&list=PLQ-uHSnFig5MiLRb-l6yiCBGyqfVyVf17)
 
-- [Курсы от Сбербанка и Гугла «Бизнес-класс»](https://bc2.business-class.pro)
+- `[RU]` [Курсы от Сбербанка и Гугла «Бизнес-класс»](https://bc2.business-class.pro)
 
 - [Data Science for Business (Курс от ВШЭ, Леонид Жуков)](http://www.leonidzhukov.net/hse/2020/datascience/)
 
 - [Business Metrics for Data-Driven Companies (coursera course)](https://www.coursera.org/learn/analytics-business-metrics#syllabus)
 
-- [Цифровое производство: онлайн-практикум by Цифра v1.0](https://stepik.org/course/55100/syllabus)
+- `[RU]` [Цифровое производство: онлайн-практикум by Цифра v1.0](https://stepik.org/course/55100/syllabus)
 
-- [Цифровое производство by Цифра v2.0](https://proizvodstvo.zyfra.com/2.0/)
+- `[RU]` [Цифровое производство by Цифра v2.0](https://proizvodstvo.zyfra.com/2.0/)
 
 - [The hidden value – Lean in manufacturing and services by École des Ponts ParisTech and BCG](https://www.coursera.org/learn/lean-manufacturing-services?)
 
@@ -77,21 +77,23 @@ A lot of useful DS links
 #### 4.2 DS, ML, dev courses
 - [Online courses and other DL staff (MIT's Lex Fridman recommendation, fast.ai)](https://www.fast.ai)
 
-- [D. Vetrov Байесовский подход к теории вероятностей. Байесовские рассуждения. Понятие о графических моделях. (поверхностный курс, youtube)](https://www.youtube.com/watch?v=sZxE-BrSMAE)
+- `[RU]` [D. Vetrov Байесовский подход к теории вероятностей. Байесовские рассуждения. Понятие о графических моделях. (поверхностный курс, youtube)](https://www.youtube.com/watch?v=sZxE-BrSMAE)
 
-- [D. Vetrov course on Bayesian methods in ML (youtube)](https://www.youtube.com/watch?v=Ejsr3S79gcQ)
+- `[RU]` [D. Vetrov course on Bayesian methods in ML (youtube)](https://www.youtube.com/watch?v=Ejsr3S79gcQ)
 
-- ✅[K. Vorontsov course on ML (2007)](http://www.ccas.ru/voron/teaching.html#ML)
+- `[RU]` [D. Vetrov course on Нейробайесовские методы - байесовские сети (youtube)](https://www.youtube.com/playlist?list=PLNO729xOopfFy1NeLkHPN5xnSqGkgcxJ3)
 
-- ✅[Введение в машинное обучение By HSE University and Yandex School of Data Analysis](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
+- ✅`[RU]` [K. Vorontsov course on ML (2007)](http://www.ccas.ru/voron/teaching.html#ML)
 
-- ✅[Демо KarpovCourses Аналитик данных](https://stepik.org/course/74457/syllabus)
+- ✅`[RU]` [Введение в машинное обучение By HSE University and Yandex School of Data Analysis](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
 
-- [Advanced Machine Learning Specialization by HSE](https://www.coursera.org/specializations/aml)
+- ✅`[RU]` [Демо KarpovCourses Аналитик данных](https://stepik.org/course/74457/syllabus)
 
-- Data Mining in Action: [youtube](https://www.youtube.com/channel/UCop3CelRVvrchG5lsPyxvHg/videos) | [github](https://github.com/data-mining-in-action)
+- `[RU]` [Advanced Machine Learning Specialization by HSE](https://www.coursera.org/specializations/aml)
 
-- [E. Sokolov course on ML (semi-beginners, github)](https://github.com/esokolov/ml-course-hse/tree/master/2016-fall/lecture-notes)
+- `[RU]` Data Mining in Action: [youtube](https://www.youtube.com/channel/UCop3CelRVvrchG5lsPyxvHg/videos) | [github](https://github.com/data-mining-in-action)
+
+- `[RU]` [E. Sokolov course on ML (semi-beginners, github)](https://github.com/esokolov/ml-course-hse/tree/master/2016-fall/lecture-notes)
 
 - [Statistical forecasting: notes on regression and time series analysis (duke)](https://people.duke.edu/~rnau/411home.htm)
 
@@ -99,13 +101,13 @@ A lot of useful DS links
 
 - ✅[Andrew Ng Anomaly Detection Course on Youtube](https://www.youtube.com/playlist?list=PLwgXNx7TiGV6UH3aEzmdZwzFRwvEnRb0N)
 
-- [Специализация Продвинутое машинное обучение (coursera)](https://www.coursera.org/specializations/aml?#instructors)
+- `[RU]` [Специализация Продвинутое машинное обучение (coursera)](https://www.coursera.org/specializations/aml?#instructors)
 
-- [Machine Learning course by ODS.ai (github)](https://github.com/Yorko/mlcourse.ai)
+- `[RU]` [Machine Learning course by ODS.ai (github)](https://github.com/Yorko/mlcourse.ai)
 
-- [Лекции Алгоритмы и структуры данных (youtube)](https://www.youtube.com/watch?v=eqWzZGNO_XM)
+- `[RU]` [Лекции Алгоритмы и структуры данных (youtube)](https://www.youtube.com/watch?v=eqWzZGNO_XM)
 
-- [Тренировки по алгоритмам от Яндекса](https://www.youtube.com/watch?v=QLhqYNsPIVo)
+- `[RU]` [Тренировки по алгоритмам от Яндекса](https://www.youtube.com/watch?v=QLhqYNsPIVo)
 
 - Lectures on VAE: [Deep Learning Lecture 14: Karol Gregor on Variational Autoencoders and Image Generation](https://www.youtube.com/watch?v=P78QYjWh5sM) | [Variational Autoencoder and Extensions](http://videolectures.net/deeplearning2015_courville_autoencoder_extension/?q=aaron%20courville)
 
@@ -113,9 +115,9 @@ A lot of useful DS links
 
 - [The NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/deep-learning-ai/education/)
 
-- [Highload: проектирование систем (Олег Бунин)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZuoK6Y0FaCh-25jEYtBvDo)
+- `[RU]` [Highload: проектирование систем (Олег Бунин)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZuoK6Y0FaCh-25jEYtBvDo)
 
-- ✅[Обзорный курс LeanDS](https://leands-video-course.thinkific.com/courses/take/leands-mini-course/texts/19443404-leands#)
+- ✅`[RU]` [Обзорный курс LeanDS](https://leands-video-course.thinkific.com/courses/take/leands-mini-course/texts/19443404-leands#)
 
 - ✅[MLOps Tutorials by DVC](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz)
 
@@ -129,7 +131,7 @@ A lot of useful DS links
 
 <a name="ds-schools"></a>
 #### 4.3 DS schools
-- [Школы и платные курсы по машинному обучению](./DS-schools.md)
+- `[RU]` [Школы и платные курсы по машинному обучению](./DS-schools.md)
 
 <a name="lists-of-tools"></a>
 ## 5. Lists of Tools
@@ -139,7 +141,7 @@ A lot of useful DS links
 
 - [(A LOT OF LINKS but not very useful) Machine Learning and Data Science Applications in Industry](https://github.com/ashishpatel26/Real-time-ML-Project#manufacturing)
 
-- [About ML (a lot of the links, in Russian), machinelearning.ru](http://www.machinelearning.ru/wiki/index.php?title=Machine_Learning)
+- `[RU]` [About ML (a lot of the links), machinelearning.ru](http://www.machinelearning.ru/wiki/index.php?title=Machine_Learning)
 
 - [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning) - This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning.
 
@@ -147,7 +149,7 @@ A lot of useful DS links
 
 - [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition (MIT's Les Fridman recommendation), Medium](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 
-- [70 links on ML (for beginners)](https://habr.com/en/company/spbifmo/blog/276479/)
+- `[RU]` [70 links on ML (for beginners)](https://habr.com/en/company/spbifmo/blog/276479/)
 
 <a name="ds-libs"></a>
 ## 6. DS Libraries and Instruments
@@ -179,9 +181,9 @@ Methods to get the probability of a changepoint in a time series. Both online an
 #### 7.1 General
 - [Deep Learning Tutorial for Beginners](https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners)
 
-- [`[RU]` Model selection (hyperopt), feature engineering, ensembling](https://habr.com/en/company/mailru/blog/321016/)
+- `[RU]` [Model selection (hyperopt), feature engineering, ensembling](https://habr.com/en/company/mailru/blog/321016/)
 
-- [`[RU]` Categorical Variable Encoding и построение моделей второго уровня](https://www.youtube.com/watch?v=xfKui8OR2dc)
+- `[RU]` [Categorical Variable Encoding и построение моделей второго уровня](https://www.youtube.com/watch?v=xfKui8OR2dc)
 
 - [SIMPLE Feature Engineering Techniques (NAN processing, Label Encode/ Factorize/ Memory reduction, Categorical Features, Splitting, Combining / Transforming / Interaction, Aggregations / Group Statistics) (kaggle)](https://www.kaggle.com/c/ieee-fraud-detection/discussion/108575#latest-631133)
 
@@ -201,7 +203,7 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [[463 votes] Detailed exploratory data analysis with python](https://www.kaggle.com/ekami66/detailed-exploratory-data-analysis-with-python)
 
-- [[5 votes] EDA Example on SKAB](https://www.kaggle.com/newintown/eda-example)
+- `[RU]` [[5 votes] EDA Example on SKAB](https://www.kaggle.com/newintown/eda-example)
 
 <a name="ts-and-ad-notebooks"></a>
 #### 7.3 Time-Series and Anomaly Detection
@@ -232,9 +234,9 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 <a name="general-ds-links-general"></a>
 #### 8.1 General
-- [`[RU]` Машинное обучение для людей. Разбираемся простыми словами](https://vas3k.ru/blog/machine_learning/)
+- `[RU]` [Машинное обучение для людей. Разбираемся простыми словами](https://vas3k.ru/blog/machine_learning/)
 
-- [`[RU]` ods site with ML competitions (from kaggle, drivendata, zindi, etc.)](http://mltrainings.ru)
+- `[RU]` [ODS site with ML competitions (from kaggle, drivendata, zindi, etc.)](http://mltrainings.ru)
 
 - [Machine Learning with scikit-learn (interactive slides)](http://amueller.github.io/sklearn_tutorial/#/1)
 
@@ -248,25 +250,25 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - AutoML (NN): [DARTS: Differentiable Architecture Search (Arxiv)](https://arxiv.org/abs/1806.09055) | [DARTS (github](https://github.com/quark0/darts) | [AutoKeras (arxiv)](https://arxiv.org/abs/1806.10282)
 
-- Recommendation systems: [youtube workshop by OTUS school](https://www.youtube.com/watch?v=1XOk_AR2ySw&t=12s) | [Habr post](https://habr.com/ru/company/surfingbird/blog/139518/)
+- `[RU]` Recommendation systems: [youtube workshop by OTUS school](https://www.youtube.com/watch?v=1XOk_AR2ySw&t=12s) | [Habr post](https://habr.com/ru/company/surfingbird/blog/139518/)
 
-- Models stacking: [Dyakonov](https://dyakonov.org/2017/03/10/cтекинг-stacking-и-блендинг-blending/) | [kaggle](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
+- `[RU]` Models stacking: [Dyakonov](https://dyakonov.org/2017/03/10/cтекинг-stacking-и-блендинг-blending/) | [kaggle](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
 
 - [KAGGLE ENSEMBLING GUIDE](https://mlwave.com/kaggle-ensembling-guide/)
 
 - [Data preprocessing for machine learning: options and recommendations (by google)](https://cloud.google.com/solutions/machine-learning/data-preprocessing-for-ml-with-tf-transform-pt1)
 
-- [`[RU]` Кросс-валидация с оценкой значимости изменения и обработкой выбросов (Данила Савенков), youtube (Kaggle Mercedes Benz)](https://www.youtube.com/watch?v=HT3QpRp2ewA)
+- `[RU]` [Кросс-валидация с оценкой значимости изменения и обработкой выбросов (Данила Савенков), youtube (Kaggle Mercedes Benz)](https://www.youtube.com/watch?v=HT3QpRp2ewA)
 
-- [CV scheme, McKinsey’s Datathon: The City Cup](https://www.youtube.com/watch?v=AhBEBZRtpx0)
+- `[RU]` [CV scheme, McKinsey’s Datathon: The City Cup](https://www.youtube.com/watch?v=AhBEBZRtpx0)
   <details>
     <summary>cv_scheme</summary>
   <img src="files/cv_scheme.png" alt="Simply Easy Learning" width="500" height="250">
   </details>
 
-- [`[RU]` Стас Семенов tinkoff](https://www.youtube.com/watch?v=NVKDSNM702k)
+- `[RU]` [Стас Семенов tinkoff](https://www.youtube.com/watch?v=NVKDSNM702k)
 
-- [`[RU]` Kaggle BNP Paribas — Станислав Семенов](https://www.youtube.com/watch?v=g335THJxkto)
+- `[RU]` [Kaggle BNP Paribas — Станислав Семенов](https://www.youtube.com/watch?v=g335THJxkto)
 
 - <details>
     <summary>ML methods cheme</summary>
@@ -291,7 +293,7 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [(PCA) Machine Learning for Real-Time Anomaly Detection in Network Time-Series Data](https://www.youtube.com/watch?v=0PqzukqMcdA)
 
-- [`[RU]` Outlier detection and Isolation forest (youtube)](https://www.youtube.com/watch?v=TOK7Kq7x0yc) | [notebook on github](https://github.com/pileyan/Isolation_trees/blob/main/outliers.ipynb)
+- `[RU]` [Outlier detection and Isolation forest (youtube)](https://www.youtube.com/watch?v=TOK7Kq7x0yc) | [notebook on github](https://github.com/pileyan/Isolation_trees/blob/main/outliers.ipynb)
 
 <a name="gan"></a>
 #### 8.3 GAN
@@ -303,9 +305,9 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 <a name="testing"></a>
 ## 9. Testing in DS
-- [`[RU]` Тесты DS кода для прода (Алексей Могильников)](https://www.youtube.com/watch?v=-Jx9gvUV520)
+- `[RU]` [Тесты DS кода для прода (Алексей Могильников)](https://www.youtube.com/watch?v=-Jx9gvUV520)
 
-- [`[RU]` Testing for Data Science Hands-on Guide (Julia Antokhina)](https://www.youtube.com/watch?v=u5NxhpjW4To)
+- `[RU]` [Testing for Data Science Hands-on Guide (Julia Antokhina)](https://www.youtube.com/watch?v=u5NxhpjW4To)
 
 - [Effective testing for machine learning systems (jeremyjordan.me)](https://www.jeremyjordan.me/testing-ml/) - In this blog post, we'll cover what testing looks like for traditional software development, why testing machine learning systems can be different, and discuss some strategies for writing effective tests for machine learning systems. 
 
@@ -313,19 +315,19 @@ Methods to get the probability of a changepoint in a time series. Both online an
 ## 10. Metrics in DS Projects
 - [Model selection based on the economic costs (researchgate)](https://www.researchgate.net/publication/327982563_Cost-Sensitive_Learning_for_Predictive_Maintenance)
 
-- [`[RU]` Метрики в DS проектах (youtube)](https://www.youtube.com/watch?v=RnvaybU4SCw), Алексей Могильников, Lead DS (2020)
+- `[RU]` [Метрики в DS проектах (youtube)](https://www.youtube.com/watch?v=RnvaybU4SCw), Алексей Могильников, Lead DS (2020)
 
-- [`[RU]` Краткий ликбез по ML метрикам и их связи с бизнес-метриками](https://www.youtube.com/watch?v=pDMgvhsUPJM)
+- `[RU]` [Краткий ликбез по ML метрикам и их связи с бизнес-метриками](https://www.youtube.com/watch?v=pDMgvhsUPJM)
 
 <a name="causal"></a>
 ## 11. Causal Inference and Explainable AI
-- [`[RU]` ODS.ai Causal inference](https://ods.ai/tracks/causal-inference-in-ml-df2020/48dcb402-7d7c-4aa6-893d-d63a34d1092a)
+- `[RU]` [ODS.ai Causal inference](https://ods.ai/tracks/causal-inference-in-ml-df2020/48dcb402-7d7c-4aa6-893d-d63a34d1092a)
 
-- [`[RU]` [Youtube] Дмитрий Павлов. Сausal Inference в анализе временных рядов](https://www.youtube.com/watch?v=Yr6b8Rpy7Ds) [[arxiv] Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/abs/2102.05829)
+- `[RU]` [[Youtube] Дмитрий Павлов. Сausal Inference в анализе временных рядов](https://www.youtube.com/watch?v=Yr6b8Rpy7Ds) [[arxiv] Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/abs/2102.05829)
 
 - Improved Shapley method [Asymmetric](https://arxiv.org/abs/1910.06358) | [Causal](https://arxiv.org/abs/2011.01625)
 
-- [Causal inference in statistics: An overview](http://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf) - Thisreviewpresentsempiricalresearcherswithrecentadvances in causal inference, and stresses the paradigmatic shifts that must be undertaken in moving from traditional statistical analysis to causal analysis of multivariate data.
+- [Causal inference in statistics: An overview](http://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf) - This review presents empirical researchers with recent advances in causal inference, and stresses the paradigmatic shifts that must be undertaken in moving from traditional statistical analysis to causal analysis of multivariate data.
 
 - [Flexibility, Interpretability, and Scalability in Time Series Modeling](https://www.youtube.com/watch?v=LkoriFtcRss)
 
@@ -343,9 +345,9 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [pdpipe](https://towardsdatascience.com/https-medium-com-tirthajyoti-build-pipelines-with-pandas-using-pdpipe-cade6128cd31) - We show how to build intuitive and useful pipelines with Pandas DataFrame using a wonderful little library called pdpipe.
 
-- [`[RU]` Артур Кузин: DL Pipelines tips & tricks](https://www.youtube.com/watch?v=W5GFH1erQ4U)
+- `[RU]` [Артур Кузин: DL Pipelines tips & tricks](https://www.youtube.com/watch?v=W5GFH1erQ4U)
 
-- [ODS.ai Machine Learning REPA: Reproducibility, Experiments and Pipelines Automation](https://ods.ai/tracks/ml-repa-df2020)
+- `[RU]` [ODS.ai Machine Learning REPA: Reproducibility, Experiments and Pipelines Automation](https://ods.ai/tracks/ml-repa-df2020)
 ```
 The ML REPA track is traditionally dedicated to the tools and practices of experiment management in Machine Learning, Reproducibility and process automation.
 We have a fairly wide range of topics that overlap with the topics of other tracks - ML Infra, SysML, Lean Data Science and others. All these topics are related, and the task of ML REPA is to show how to build a process for developing ML solutions, how to organize teamwork and what tools can help you.
@@ -397,12 +399,12 @@ def Random(seed_value):
 
 <a name="ai-products-architecture"></a>
 ## 13. AI Products Architecture
-- [`[RU]` Архитектура AI продуктов, Михаил Перлин](https://www.youtube.com/watch?v=kbsQRisaJPo) - Архитектура ПО - дисциплина, которая за это отвечает. Что она включает в себя? Каких скиллов и качеств требует? Могут ли DS ею овладеть? Кого звать на помощь, если нужно прямо сейчас? Доклад меньше про технологии и больше про процессы, стратегии и людей.
+- `[RU]` [Архитектура AI продуктов, Михаил Перлин](https://www.youtube.com/watch?v=kbsQRisaJPo) - Архитектура ПО - дисциплина, которая за это отвечает. Что она включает в себя? Каких скиллов и качеств требует? Могут ли DS ею овладеть? Кого звать на помощь, если нужно прямо сейчас? Доклад меньше про технологии и больше про процессы, стратегии и людей.
 
 - [Shortened Volere Requirements Specification Template](https://github.com/ttzt/catalog_of_requirements_for_ai_products)
 
 <a name="cases"></a>
 ## 14. Cases of Industrial DS
-- Severstal cases: [ODS](https://www.youtube.com/watch?v=1Ir70moB9aQ&t=1025s), [Boris Voskresenskii: Causal inference for a steel mill](https://www.youtube.com/watch?v=rdxs9c_y0Cw), [towardsdatascience.com: Causal inference for a steel mill](https://towardsdatascience.com/causal-inference-for-a-steel-mill-1e4dff991501), [Severstal Data Science Meetup](https://www.youtube.com/watch?v=6WglJwU-9i4), [Arxiv paper on RL](https://arxiv.org/pdf/2008.06933v1.pdf)
+- `[RU]` Severstal cases: [ODS](https://www.youtube.com/watch?v=1Ir70moB9aQ&t=1025s), [Boris Voskresenskii: Causal inference for a steel mill](https://www.youtube.com/watch?v=rdxs9c_y0Cw), [towardsdatascience.com: Causal inference for a steel mill](https://towardsdatascience.com/causal-inference-for-a-steel-mill-1e4dff991501), [Severstal Data Science Meetup](https://www.youtube.com/watch?v=6WglJwU-9i4), [Arxiv paper on RL](https://arxiv.org/pdf/2008.06933v1.pdf)
 
-- [Кейсы. Внедрение искусственного интеллекта в промышленности](https://www.youtube.com/watch?v=sbwW3Y0PRRo)
+- `[RU]` [Кейсы. Внедрение искусственного интеллекта в промышленности](https://www.youtube.com/watch?v=sbwW3Y0PRRo)
