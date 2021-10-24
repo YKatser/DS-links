@@ -236,6 +236,8 @@ Methods to get the probability of a changepoint in a time series. Both online an
 #### 8.1 General
 - `[RU]` [Машинное обучение для людей. Разбираемся простыми словами](https://vas3k.ru/blog/machine_learning/)
 
+- `[RU]` [Как Data Science помогает превращать терабайты данных в выдающиеся финансовые результаты by McKinsey](https://vk.com/wall-77014399_8790)
+
 - `[RU]` [ODS site with ML competitions (from kaggle, drivendata, zindi, etc.)](http://mltrainings.ru)
 
 - [Machine Learning with scikit-learn (interactive slides)](http://amueller.github.io/sklearn_tutorial/#/1)
@@ -303,11 +305,13 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [Repo with keras GAN implementations](https://github.com/eriklindernoren/Keras-GAN)
 
+- `[RU]` [Обнаружение аномалий и точек разладки генеративными моделями. Михаил Гущин](https://www.youtube.com/watch?v=LLQ4KMyAShc)
+
 <a name="testing"></a>
 ## 9. Testing in DS
 - `[RU]` [Тесты DS кода для прода (Алексей Могильников)](https://www.youtube.com/watch?v=-Jx9gvUV520)
 
-- `[RU]` [Testing for Data Science Hands-on Guide (Julia Antokhina)](https://www.youtube.com/watch?v=u5NxhpjW4To)
+- `[RU]` [Testing for Data Science Hands-on Guide (Julia Antokhina)](https://www.youtube.com/watch?v=u5NxhpjW4To) | [gitlab](https://gitlab.com/Julia_chan/testing-for-data-science/)
 
 - [Effective testing for machine learning systems (jeremyjordan.me)](https://www.jeremyjordan.me/testing-ml/) - In this blog post, we'll cover what testing looks like for traditional software development, why testing machine learning systems can be different, and discuss some strategies for writing effective tests for machine learning systems. 
 
@@ -341,6 +345,8 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 <a name="repa"></a>
 ## 12. Reproducibility and Automatization
+- `[RU]` [Julia Antokhina: Software Engineering Lifehacks for Data Science](https://www.youtube.com/watch?v=uewvufdKmFo)
+
 - [Scikit-learn Pipelines](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html) - Scikit-learn's Pipeline class is designed as a manageable way to apply a series of data transformations followed by the application of an estimator.
 
 - [pdpipe](https://towardsdatascience.com/https-medium-com-tirthajyoti-build-pipelines-with-pandas-using-pdpipe-cade6128cd31) - We show how to build intuitive and useful pipelines with Pandas DataFrame using a wonderful little library called pdpipe.
@@ -405,6 +411,24 @@ def Random(seed_value):
 
 <a name="cases"></a>
 ## 14. Cases of Industrial DS
-- `[RU]` Severstal cases: [ODS](https://www.youtube.com/watch?v=1Ir70moB9aQ&t=1025s), [Boris Voskresenskii: Causal inference for a steel mill](https://www.youtube.com/watch?v=rdxs9c_y0Cw), [towardsdatascience.com: Causal inference for a steel mill](https://towardsdatascience.com/causal-inference-for-a-steel-mill-1e4dff991501), [Severstal Data Science Meetup](https://www.youtube.com/watch?v=6WglJwU-9i4), [Arxiv paper on RL](https://arxiv.org/pdf/2008.06933v1.pdf)
+- `[RU]` [Северсталь. Causal inference for a steel mill. Boris Voskresenskii](https://www.youtube.com/watch?v=rdxs9c_y0Cw), [towardsdatascience.com: Causal inference for a steel mill](https://towardsdatascience.com/causal-inference-for-a-steel-mill-1e4dff991501), [Arxiv paper on RL](https://arxiv.org/pdf/2008.06933v1.pdf)
+- `[RU]` [Северсталь. Модель управления обжиговыми машинами. Борис Воскресенский](https://www.youtube.com/watch?v=1Ir70moB9aQ)
+- `[RU]` [ММК. Как Яндекс металлургам помогал. Виктор Лобачев](https://www.youtube.com/watch?v=wBbtVPJRMEg&t=4s)
+- `[RU]` [Софтлайн. Линейные деревья решений для прогноза усваемости химических элементов в плавке. Николай Князев](https://www.youtube.com/watch?v=6LesrsmwlVQ)
+- `[RU]` [Искусственный интеллект в металлургии. Александр Хайтин, Mechanica AI](https://www.youtube.com/watch?v=WbPcXEmA6-Q)
+- `[RU]` [Росатом. Предиктивная аналитика на МСЗ. Иван Максимов](https://www.youtube.com/watch?v=dYp0ik05roI&t=1s)
+- `[RU]` [Микрон и Уралхим (МТС). Как использовать данные на предприятии на примере Микрон и Уралхим. Михаил Матвеев](https://www.youtube.com/watch?v=cs4ZPcXQedg)
+- `[RU]` [ГПН. Как сблизить практику и науку ИИ? Анджей Аршавский](https://www.youtube.com/watch?v=Kte9WZFh3uA)
+- `[RU]` [ГПН (Раблз). Подбор и оптимизация рецептур моторных масел с использованием ИИ. Я.Чижевский, Н.Дорошенко](https://www.youtube.com/watch?v=GXdk7A1qL5U)
+- `[RU]` [Россети (Mail.ru). Россети и Mail.ru в поисках черных майнеров. Александр Мамаев](https://www.youtube.com/watch?v=00UUnC3l9Jg)
+- `[RU]` [Россети (Mail.ru). Разработка ML-решений: от постановки задачи до эксплуатации](https://www.youtube.com/watch?v=rJgoEILUmiI)
 
-- `[RU]` [Кейсы. Внедрение искусственного интеллекта в промышленности](https://www.youtube.com/watch?v=sbwW3Y0PRRo)
+### 14.2 Обзоры кейсов и панельные дискуссии
+- `[RU]` [Искусственный интеллект в нефтегазовой отрасли. Дмитрий Коротеев, Сколтех](https://www.youtube.com/watch?v=cB0EcoUWlhU)
+- `[RU]` [Искусственный интеллект в разведке и добыче нефти и газа. Сергей Сафонов, Aramco](https://www.youtube.com/watch?v=r5CkU3VVk9Q)
+- `[RU]` [Кейсы. Внедрение искусственного интеллекта в промышленности («КАМАЗ», «Цифрум», red_mad_robot, «Цифра»](https://www.youtube.com/watch?v=sbwW3Y0PRRo)
+- `[RU]` [Панельная дискуссия с экспертами индустрии о применении науки о данных в промышленности](https://www.youtube.com/watch?v=T2P-D6rse-E)
+- `[RU]` [Severstal Data Science Meetup](https://www.youtube.com/watch?v=6WglJwU-9i4)
+- `[RU]` [Научно-техническая конференция «Цифровые технологии в добыче углеводородов: от моделей к практике - 2021». Применение интеллектуальных технологий на объектах добычи, хранения, транспорта и переработки нефти](https://www.youtube.com/watch?v=6X9VHAuT0is)
+- `[RU]` [McKinsey: Углублённая аналитика в тяжёлой промышленности](https://www.youtube.com/watch?v=IgW1KVY4bJI) | [Агрегаты с алгоритмами: как углубленная аналитика меняет тяжелую промышленность, vc.ru](https://vc.ru/future/133133-agregaty-s-algoritmami-kak-uglublennaya-analitika-menyaet-tyazheluyu-promyshlennost)
+- `[RU]` [Как заставить ML работать и причем тут физика. Примеры из нефтегазовой отрасли. Тимур Бикмухаметов](https://www.youtube.com/watch?v=qbXo7rl51qY)
