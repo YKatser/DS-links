@@ -28,13 +28,14 @@
 | [Анализ данных на Python](https://brainskills.live/) | 990 р в месяц | 65 занятий | анализ данных и нейросети | - | - |
 | [Анализ данных на языке Python](https://www.avalon.ru/Retraining/Programs/Python-Data-Analysis/) by Политех | 95.000 ₽ | 9 месяцев | Аналитика, Data Science, Data Engineering | - | - |
 | [DATA SCIENTIST](https://fpmi-edu.ru/datascience) by MIPT | 195.000 ₽ | 9 месяцев | Python, математика, анализ данных | - | - |
+| [Математика для Data Science](https://proglib.academy/mathspro?utm_source=proglib&utm_medium=banner) by ВМК МГУ | 68.000/78.000/93.000 ₽ | 6-12 месяцев | теорвер, математика, анализ данных | - | + |
 
 # Школы и академии
 | Название и ссылка | Стоимость | Длительность | Тема |
 |--|--|--|--|
 | [ozonmasters](https://ozonmasters.ru) by ozon | бесплатно | 2 года | Data Science and Data Engineering |
 | [ШАД](https://yandexdataschool.ru) by yandex | бесплатно или 150.000 ₽ за семестр | 2 года | 4 направления по МО |
-| [Made. Академия больших данных](https://data.mail.ru) by mail.ru | бесплатно | 1,5 года | 3 роли: Data Scientist, Machine Learning Engineer, Data Engineer |
+| [Made. Академия больших данных](https://data.mail.ru) by DVR | бесплатно | 1,5 года | 3 роли: Data Scientist, Machine Learning Engineer, Data Engineer |
 
 # Магистратуры
 - [Системы машинного обучения для умного производства by MIPT and NLMK](https://mipt.nlmk.com)
