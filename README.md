@@ -163,6 +163,8 @@ Per the Github page, sktime currently provides:
 - Ensembling of models — e.g. a fully customizable random forest for time-series classification and regression; ensembling for multivariate problems.
 ```
 
+- [tslearn](https://github.com/tslearn-team/tslearn/) - The machine learning toolkit for time series analysis in Python.
+
 - [TSFRESH: Time Series Feature extraction based on scalable hypothesis tests](https://github.com/blue-yonder/tsfresh) + [arxiv paper](https://arxiv.org/pdf/1909.07872.pdf) - The package contains many feature extraction methods and a robust feature selection algorithm.
 
 - [bayesian_changepoint_detection (online)](https://github.com/hildensia/bayesian_changepoint_detection/tree/master/bayesian_changepoint_detection) - 
@@ -223,7 +225,7 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [RUL, TTF, alot of usefull notebooks](https://github.com/Samimust/predictive-maintenance)
 
-- [Time Series Classification and Clustering (github)](https://github.com/alexminnaar/time-series-classification-and-clustering)
+- [Time Series Classification and Clustering + Similarity Measures (github)](https://github.com/alexminnaar/time-series-classification-and-clustering)
 
 - [Time Series forecating (tensorflow guide)](https://www.tensorflow.org/tutorials/structured_data/time_series)
 
@@ -281,11 +283,13 @@ Methods to get the probability of a changepoint in a time series. Both online an
 #### 8.2 Time Series and Anomaly Detection
 - [Time Series for Everyone Presentation](https://data4sci.com/timeseries)
 
-- [Convert a Time Series to a Supervised Learning Problem](https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/)
+- [Convert a Time Series to a Supervised Learning Problem with code](https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/)
 
-- [Time Series Analysis (TSA) in Python - Linear Models to GARCH](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
+- [Time Series Analysis (TSA) in Python - Linear Models to GARCH with code](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
 
-- [Irregular time series and how to whip them (youtube)](https://www.youtube.com/watch?v=E4NMZyfao2c)
+- [Time Series Analysis by Aileen Nielsen. PyCon 2017 (youtube)](https://www.youtube.com/watch?v=zmfe2RaX-14)
+
+- [Irregular time series and how to whip them by Aileen Nielsen (youtube)](https://www.youtube.com/watch?v=E4NMZyfao2c)
 
 - [[VAR vs LSTM] Time Series Forecasting using Statistical and Machine Learning Models](https://www.youtube.com/watch?v=_vQ0W_qXMxk)
 
