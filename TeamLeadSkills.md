@@ -15,12 +15,12 @@
 
 ## Требования
 *Hard skills*
-- Уметь прототипировать и валидировать алгоритмы, описанные в исследовательских и научных статьях;
+- Уметь прототипировать и валидировать алгоритмы, описанные в исследовательских и научных статьях
 - Знание теории вероятностей и математической статистики
 - Знание алгоритмов машинного обучения (включая алгоритмы кластеризации, линейные модели, модели на деревьях решений и нейронные сети)
 - Отличное знание SQL
-- Уметь работать с данными, хранящимися в нескольких внутренних и внешних хранилищах;
--  Хороший опыт разработки на Python (numpy, pandas, matplotlib, scikit-learn, xgboost/lightgbm/catboost, TensorFlow, Keras, PyTorch), пользуешься git, соблюдаешь PEP8 и пишешь юнит-тесты.
+- Уметь работать с данными, хранящимися в нескольких внутренних и внешних хранилищах
+-  Хороший опыт разработки на Python (numpy, pandas, matplotlib, scikit-learn, xgboost/lightgbm/catboost, TensorFlow, Keras, PyTorch), пользуешься git, соблюдаешь PEP8 и пишешь юнит-тесты
 - Хороший опыт в Hadoop-стеке (нужно параллелить вычисления через Spark)
 
 *Soft skills*
@@ -37,3 +37,6 @@
 - [Почему вы никогда не найдете Дата Саентиста – Валерий Бабушкин](https://www.youtube.com/watch?v=Cs3ae65tmKA&t=94s)
 - [Machine Learning Engineer vs Data Scientist (Is Data Science Over?)](https://towardsdatascience.com/mlevsds-3c89425baabb)
 - [Roles in Data Science Teams](https://www.youtube.com/watch?v=m5hLUknIi5c)
+
+## О карьере
+- [Карьерный путь в BCG GAMMA](https://careers.bcg.com/mos-bcg-gamma?fbclid=PAAaZG2vzBjYKbIIRqL6MJ6_7T_nilEVUv-tHFpD122KYDdj6PaMXGAGBPSRw)
