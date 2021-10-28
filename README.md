@@ -25,7 +25,6 @@ A lot of useful DS links
 - [11. Causal Inference and Explainable AI](#causal)
 - [12. Reproducibility and Automatization](#repa)
 - [13. AI Products Architecture](#ai-products-architecture)
-- [14. Cases of Industrial DS](#cases)
 
 <a name="team-leading"></a>
 ## 1. Team leading
@@ -412,27 +411,3 @@ def Random(seed_value):
 - `[RU]` [Архитектура AI продуктов, Михаил Перлин](https://www.youtube.com/watch?v=kbsQRisaJPo) - Архитектура ПО - дисциплина, которая за это отвечает. Что она включает в себя? Каких скиллов и качеств требует? Могут ли DS ею овладеть? Кого звать на помощь, если нужно прямо сейчас? Доклад меньше про технологии и больше про процессы, стратегии и людей.
 
 - [Shortened Volere Requirements Specification Template](https://github.com/ttzt/catalog_of_requirements_for_ai_products)
-
-<a name="cases"></a>
-## 14. Cases of Industrial DS
-- `[RU]` [Северсталь. Causal inference for a steel mill. Boris Voskresenskii](https://www.youtube.com/watch?v=rdxs9c_y0Cw), [towardsdatascience.com: Causal inference for a steel mill](https://towardsdatascience.com/causal-inference-for-a-steel-mill-1e4dff991501), [Arxiv paper on RL](https://arxiv.org/pdf/2008.06933v1.pdf)
-- `[RU]` [Северсталь. Модель управления обжиговыми машинами. Борис Воскресенский](https://www.youtube.com/watch?v=1Ir70moB9aQ)
-- `[RU]` [ММК. Как Яндекс металлургам помогал. Виктор Лобачев](https://www.youtube.com/watch?v=wBbtVPJRMEg&t=4s)
-- `[RU]` [Софтлайн. Линейные деревья решений для прогноза усваемости химических элементов в плавке. Николай Князев](https://www.youtube.com/watch?v=6LesrsmwlVQ)
-- `[RU]` [Искусственный интеллект в металлургии. Александр Хайтин, Mechanica AI](https://www.youtube.com/watch?v=WbPcXEmA6-Q)
-- `[RU]` [Росатом. Предиктивная аналитика на МСЗ. Иван Максимов](https://www.youtube.com/watch?v=dYp0ik05roI&t=1s)
-- `[RU]` [Микрон и Уралхим (МТС). Как использовать данные на предприятии на примере Микрон и Уралхим. Михаил Матвеев](https://www.youtube.com/watch?v=cs4ZPcXQedg)
-- `[RU]` [ГПН. Как сблизить практику и науку ИИ? Анджей Аршавский](https://www.youtube.com/watch?v=Kte9WZFh3uA)
-- `[RU]` [ГПН (Раблз). Подбор и оптимизация рецептур моторных масел с использованием ИИ. Я.Чижевский, Н.Дорошенко](https://www.youtube.com/watch?v=GXdk7A1qL5U)
-- `[RU]` [Россети (Mail.ru). Россети и Mail.ru в поисках черных майнеров. Александр Мамаев](https://www.youtube.com/watch?v=00UUnC3l9Jg)
-- `[RU]` [Россети (Mail.ru). Разработка ML-решений: от постановки задачи до эксплуатации](https://www.youtube.com/watch?v=rJgoEILUmiI)
-
-### 14.2 Обзоры кейсов и панельные дискуссии
-- `[RU]` [Искусственный интеллект в нефтегазовой отрасли. Дмитрий Коротеев, Сколтех](https://www.youtube.com/watch?v=cB0EcoUWlhU)
-- `[RU]` [Искусственный интеллект в разведке и добыче нефти и газа. Сергей Сафонов, Aramco](https://www.youtube.com/watch?v=r5CkU3VVk9Q)
-- `[RU]` [Кейсы. Внедрение искусственного интеллекта в промышленности («КАМАЗ», «Цифрум», red_mad_robot, «Цифра»](https://www.youtube.com/watch?v=sbwW3Y0PRRo)
-- `[RU]` [Панельная дискуссия с экспертами индустрии о применении науки о данных в промышленности](https://www.youtube.com/watch?v=T2P-D6rse-E)
-- `[RU]` [Severstal Data Science Meetup](https://www.youtube.com/watch?v=6WglJwU-9i4)
-- `[RU]` [Научно-техническая конференция «Цифровые технологии в добыче углеводородов: от моделей к практике - 2021». Применение интеллектуальных технологий на объектах добычи, хранения, транспорта и переработки нефти](https://www.youtube.com/watch?v=6X9VHAuT0is)
-- `[RU]` [McKinsey: Углублённая аналитика в тяжёлой промышленности](https://www.youtube.com/watch?v=IgW1KVY4bJI) | [Агрегаты с алгоритмами: как углубленная аналитика меняет тяжелую промышленность, vc.ru](https://vc.ru/future/133133-agregaty-s-algoritmami-kak-uglublennaya-analitika-menyaet-tyazheluyu-promyshlennost)
-- `[RU]` [Как заставить ML работать и причем тут физика. Примеры из нефтегазовой отрасли. Тимур Бикмухаметов](https://www.youtube.com/watch?v=qbXo7rl51qY)
