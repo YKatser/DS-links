@@ -20,6 +20,7 @@ A lot of useful DS links
   - [8.1 General](#general-ds-links-general)
   - [8.2 Time Series and Anomaly Detection](#ts-and-ad)
   - [8.3 GAN](#gan)
+  - [8.4 AutoML](#automl)
 - [9. Testing in DS](#testing)
 - [10. Metrics in DS projects](#metrics)
 - [11. Causal Inference and Explainable AI](#causal)
@@ -251,8 +252,6 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - `[RU]` [ROADMAP НЕЙРОННЫЕ СЕТИ](https://www.youtube.com/watch?v=cq6dUisDeUU&t=35s): где применяются нейронные сети сегодня и как аналитику данных начать их изучение.
 
-- AutoML (NN): [DARTS: Differentiable Architecture Search (Arxiv)](https://arxiv.org/abs/1806.09055) | [DARTS (github](https://github.com/quark0/darts) | [AutoKeras (arxiv)](https://arxiv.org/abs/1806.10282)
-
 - `[RU]` Recommendation systems: [youtube workshop by OTUS school](https://www.youtube.com/watch?v=1XOk_AR2ySw&t=12s) | [Habr post](https://habr.com/ru/company/surfingbird/blog/139518/)
 
 - `[RU]` Models stacking: [Dyakonov](https://dyakonov.org/2017/03/10/cтекинг-stacking-и-блендинг-blending/) | [kaggle](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
@@ -309,6 +308,14 @@ Methods to get the probability of a changepoint in a time series. Both online an
 - [Repo with keras GAN implementations](https://github.com/eriklindernoren/Keras-GAN)
 
 - `[RU]` [Обнаружение аномалий и точек разладки генеративными моделями. Михаил Гущин](https://www.youtube.com/watch?v=LLQ4KMyAShc)
+
+<a name="automl"></a>
+### 8.4 AutoML
+- AutoML (NN): [DARTS: Differentiable Architecture Search (Arxiv)](https://arxiv.org/abs/1806.09055) | [DARTS (github](https://github.com/quark0/darts)
+
+- AutoKeras [arxiv](https://arxiv.org/abs/1806.10282)
+
+- [Time series met AutoML Codalab Automated Time Series Regression — Denis Vorotyntsev](https://www.youtube.com/watch?v=fqVhIr7Lefk)
 
 <a name="testing"></a>
 ## 9. Testing in DS
