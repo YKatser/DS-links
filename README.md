@@ -61,9 +61,13 @@ A lot of useful DS links
 
 - `[RU]` [Курсы от Сбербанка и Гугла «Бизнес-класс»](https://bc2.business-class.pro)
 
-- [Data Science for Business (Курс от ВШЭ, Леонид Жуков)](http://www.leonidzhukov.net/hse/2020/datascience/)
+- ✅`[RU]` [Полный курс LeanDS](https://leands.university/leands-online-oct21)
 
-- [Business Metrics for Data-Driven Companies (coursera course)](https://www.coursera.org/learn/analytics-business-metrics#syllabus)
+- ✅`[RU]` [Обзорный курс LeanDS](https://leands-video-course.thinkific.com/courses/take/leands-mini-course/texts/19443404-leands#)
+
+- ✅[Business Metrics for Data-Driven Companies (coursera course)](https://www.coursera.org/learn/analytics-business-metrics#syllabus)
+
+- [Data Science for Business (Курс от ВШЭ, Леонид Жуков)](http://www.leonidzhukov.net/hse/2020/datascience/)
 
 - `[RU]` [Цифровое производство: онлайн-практикум by Цифра v1.0](https://stepik.org/course/55100/syllabus)
 
@@ -72,6 +76,10 @@ A lot of useful DS links
 - [The hidden value – Lean in manufacturing and services by École des Ponts ParisTech and BCG](https://www.coursera.org/learn/lean-manufacturing-services?)
 
 - [Digital Transformation by University of Virginia and BCG](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation)
+
+- `[RU]` [BIG DATA для менеджеров by productlive](https://productlive.io/big-data-mba) - КУРС ДЛЯ РУКОВОДИТЕЛЕЙ ДЕПАРТАМЕНТОВ, НАПРАВЛЕНИЙ И ВЛАДЕЛЬЦЕВ КОМПАНИЙ
+
+- `[RU]` [Управление AI/ML продуктами by productlive](https://productlive.io/ai-product-manager) - Курс для product-менеджеров, предпринимателей и руководителей, которые хотят получать прибыль от AI/ML-продуктов.
 
 <a name="ds-courses"></a>
 #### 4.2 DS, ML, dev courses
@@ -116,8 +124,6 @@ A lot of useful DS links
 - [The NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/deep-learning-ai/education/)
 
 - `[RU]` [Highload: проектирование систем (Олег Бунин)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZuoK6Y0FaCh-25jEYtBvDo)
-
-- ✅`[RU]` [Обзорный курс LeanDS](https://leands-video-course.thinkific.com/courses/take/leands-mini-course/texts/19443404-leands#)
 
 - ✅[MLOps Tutorials by DVC](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz)
 
