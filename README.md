@@ -246,7 +246,7 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - `[RU]` [Как Data Science помогает превращать терабайты данных в выдающиеся финансовые результаты by McKinsey](https://vk.com/wall-77014399_8790)
 
-- `[RU]` [ODS site with ML competitions (from kaggle, drivendata, zindi, etc.)](http://mltrainings.ru)
+- `[RU]` [Учебник по машинному обучению by ШАД](https://ml-handbook.ru)
 
 - [Machine Learning with scikit-learn (interactive slides)](http://amueller.github.io/sklearn_tutorial/#/1)
 
