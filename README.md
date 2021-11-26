@@ -105,6 +105,8 @@ A lot of useful DS links
 
 - [Statistical forecasting: notes on regression and time series analysis (duke)](https://people.duke.edu/~rnau/411home.htm)
 
+- [Курс «Глубинное обучение», Школа анализа данных (В. Лемпицкий)](https://www.youtube.com/playlist?app=desktop&list=PLJOzdkh8T5kpL2y8-lhHOlBxzLszSyDa0)
+
 - [Andrew Ng Deep Learning Course on Youtube](https://www.youtube.com/watch?v=PySo_6S4ZAg)
 
 - ✅[Andrew Ng Anomaly Detection Course on Youtube](https://www.youtube.com/playlist?list=PLwgXNx7TiGV6UH3aEzmdZwzFRwvEnRb0N)
