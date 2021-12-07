@@ -207,6 +207,8 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 <a name="eda"></a>
 #### 7.2 EDA
+- [Exploratory Data Analysis video on youtube](https://www.youtube.com/watch?v=E-q24gS8cqg)
+
 - [[10471 votes] COMPREHENSIVE DATA EXPLORATION WITH PYTHON (kaggle)](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
 
 - [[1992 votes] EDA To Prediction (DieTanic)](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
