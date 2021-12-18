@@ -125,6 +125,8 @@ A lot of useful DS links
 
 - [The NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/deep-learning-ai/education/)
 
+- `[RU]` [Современное техническое устройство сервисов](https://youtu.be/RtvKSZ636do)
+
 - `[RU]` [Highload: проектирование систем (Олег Бунин)](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZuoK6Y0FaCh-25jEYtBvDo)
 
 - ✅[MLOps Tutorials by DVC](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz)
