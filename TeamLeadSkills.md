@@ -37,6 +37,7 @@
 - [Почему вы никогда не найдете Дата Саентиста – Валерий Бабушкин](https://www.youtube.com/watch?v=Cs3ae65tmKA&t=94s)
 - [Machine Learning Engineer vs Data Scientist (Is Data Science Over?)](https://towardsdatascience.com/mlevsds-3c89425baabb)
 - [Roles in Data Science Teams](https://www.youtube.com/watch?v=m5hLUknIi5c)
+- [Зачем бизнесу развивать DevRel: как новая профессия помогает справиться с дефицитом IT-кадров](https://rb.ru/opinion/devrel-profession/?utm_source=vk.com&amp;utm_medium=social&amp;utm_campaign=post)
 
 ## О карьере
 - [Карьерный путь в BCG GAMMA](https://careers.bcg.com/mos-bcg-gamma?fbclid=PAAaZG2vzBjYKbIIRqL6MJ6_7T_nilEVUv-tHFpD122KYDdj6PaMXGAGBPSRw)
