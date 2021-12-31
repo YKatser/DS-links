@@ -432,3 +432,7 @@ def Random(seed_value):
 - [Shortened Volere Requirements Specification Template](https://github.com/ttzt/catalog_of_requirements_for_ai_products)
 
 - `[RU]` [Серия постов о разработке REST API](https://habr.com/ru/post/483202/
+
+- [Channel about AI in production](https://www.youtube.com/c/AppliedAICourse/videos)
+
+- [Comprehensive and Comparative List of Feature Store Architectures for Data Scientists and Big Data Professionals](https://medium.com/data-for-ai/comprehensive-and-comparative-list-of-feature-store-architectures-for-data-scientists-and-big-data-86ea8c4d853b)
