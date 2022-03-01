@@ -243,6 +243,10 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [Intro to Autoencoders and anomaly detection with tensorflow](https://www.tensorflow.org/tutorials/generative/autoencoder) | [youtube video on the notebook](https://www.youtube.com/watch?v=2K3ScZp1dXQ)
 
+- [Isolation forest anomaly detection for telemetry time series data](https://medium.com/@juniper.cto.aiml.2021/isolation-forest-anomaly-detection-for-telemetry-time-series-data-bbd71adacfaf)
+
+- [Unsupervised anomaly detection library and its applications in networking domain](https://medium.com/@juniper.cto.aiml.2021/unsupervised-anomaly-detection-library-and-its-applications-in-networking-domain-f7bfd78332d0)
+
 <a name="general-ds-links"></a>
 ## 8. General DS Links
 
