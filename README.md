@@ -163,7 +163,7 @@ A lot of useful DS links
 
 <a name="ds-libs"></a>
 ## 6. DS Libraries and Instruments
-- Sktime: a Unified Python Library for Time Series Machine Learning: [towardsdatascience](https://towardsdatascience.com/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55) | [github](https://github.com/alan-turing-institute/sktime) | [youtube](https://www.youtube.com/watch?v=Wf2naBHRo8Q)
+- Sktime: a Unified Python Library for Time Series Machine Learning: [towardsdatascience](https://towardsdatascience.com/sktime-a-unified-python-library-for-time-series-machine-learning-3c103c139a55) | [github](https://github.com/alan-turing-institute/sktime) | [youtube 2020](https://www.youtube.com/watch?v=Wf2naBHRo8Q) | [youtube 2022](https://www.youtube.com/watch?v=GbRfbXHXUKM)
 Per the Github page, sktime currently provides:
 ```
 - State-of-the-art algorithms for time series classification, regression, and forecasting (ported from the Java-based tsml toolkit),
