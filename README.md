@@ -341,6 +341,8 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [Effective testing for machine learning systems (jeremyjordan.me)](https://www.jeremyjordan.me/testing-ml/) - In this blog post, we'll cover what testing looks like for traditional software development, why testing machine learning systems can be different, and discuss some strategies for writing effective tests for machine learning systems. 
 
+- [Testing and Debugging in Machine Learning by Google](https://developers.google.com/machine-learning/testing-debugging)
+
 <a name="metrics"></a>
 ## 10. Metrics in DS Projects
 - [Model selection based on the economic costs (researchgate)](https://www.researchgate.net/publication/327982563_Cost-Sensitive_Learning_for_Predictive_Maintenance)
