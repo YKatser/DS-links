@@ -339,6 +339,8 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - `[RU]` [Testing for Data Science Hands-on Guide (Julia Antokhina)](https://www.youtube.com/watch?v=u5NxhpjW4To) | [gitlab](https://gitlab.com/Julia_chan/testing-for-data-science/)
 
+- `[RU]` [Pytest: введение в автотесты // Бесплатный урок OTUS](https://www.youtube.com/watch?v=EBMXOsCL9AA&list=WL&index=24)
+
 - [Effective testing for machine learning systems (jeremyjordan.me)](https://www.jeremyjordan.me/testing-ml/) - In this blog post, we'll cover what testing looks like for traditional software development, why testing machine learning systems can be different, and discuss some strategies for writing effective tests for machine learning systems. 
 
 - [Testing and Debugging in Machine Learning by Google](https://developers.google.com/machine-learning/testing-debugging)
