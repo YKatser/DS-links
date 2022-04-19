@@ -389,6 +389,8 @@ The ML REPA track is traditionally dedicated to the tools and practices of exper
 We have a fairly wide range of topics that overlap with the topics of other tracks - ML Infra, SysML, Lean Data Science and others. All these topics are related, and the task of ML REPA is to show how to build a process for developing ML solutions, how to organize teamwork and what tools can help you.
 ```
 
+- `[RU]` [MLOps: жизненный цикл ML-моделей от идеи до продакшна, Евгений Никитин](https://www.youtube.com/watch?v=uQ--wxaxzSk)
+
 - [Kedro](https://github.com/quantumblacklabs/kedro)
 ```
 Kedro is an open-source Python framework that applies software engineering best-practice to data and machine-learning pipelines. You can use it, for example, to optimise the process of taking a machine learning model into a production environment. You can use Kedro to organise a single user project running on a local environment, or collaborate within a team on an enterprise-level project.
