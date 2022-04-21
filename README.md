@@ -21,6 +21,7 @@ A lot of useful DS links
   - [8.2 Time Series and Anomaly Detection](#ts-and-ad)
   - [8.3 GAN](#gan)
   - [8.4 AutoML](#automl)
+  - [8.5 Recommender systems](#recsys)
 - [9. Testing in DS](#testing)
 - [10. Metrics in DS projects](#metrics)
 - [11. Causal Inference and Explainable AI](#causal)
@@ -332,6 +333,12 @@ Methods to get the probability of a changepoint in a time series. Both online an
 - AutoKeras [arxiv](https://arxiv.org/abs/1806.10282)
 
 - [Time series met AutoML Codalab Automated Time Series Regression — Denis Vorotyntsev](https://www.youtube.com/watch?v=fqVhIr7Lefk)
+
+<a name="recsys"></a>
+### 8.5 Recommender systems
+- `[RU]` [Series of posts at habr](https://habr.com/ru/users/snikolenko/posts/)
+
+- `[RU]` [Demo class from OTUS school at youtube](https://www.youtube.com/watch?v=1XOk_AR2ySw)
 
 <a name="testing"></a>
 ## 9. Testing in DS
