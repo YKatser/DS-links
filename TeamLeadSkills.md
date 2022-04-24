@@ -4,6 +4,8 @@
 
 [30 open-ended questions](https://huyenchip.com/machine-learning-systems-design/toc.html) - This part contains 27 open-ended questions that test your ability to put together what you've learned to design systems to solve practical problems.
 
+[Machine Learning Simplified](https://themlsbook.com) - After reading this book, you will understand everything that comes into the scope of supervised ML. You will be able to not only understand nitty-gritty details of mathematics, but also explain to anyone how things work on a high level.
+
 *На основе 4х вакансий из ODS*
 
 ## Обязанности
