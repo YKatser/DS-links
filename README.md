@@ -298,6 +298,12 @@ Methods to get the probability of a changepoint in a time series. Both online an
 #### 8.2 Time Series and Anomaly Detection
 - [Time Series for Everyone Presentation](https://data4sci.com/timeseries)
 
+- `[RU]` [Прогнозирование временных рядов (youtube)](https://www.youtube.com/watch?v=u433nrxdf5k)
+
+- `[RU]` [«Временные ряды: почему прогнозирование — это сложно». Александр Кондофуров, AltexSoft (youtube)](https://www.youtube.com/watch?v=mKUhCh2adZM)
+
+- `[RU]` [Временные ряды в экономике - секция на DataFusion (youtube)](https://www.youtube.com/watch?v=pj2jHkDohs0)
+
 - [Convert a Time Series to a Supervised Learning Problem with code](https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/)
 
 - [Time Series Analysis (TSA) in Python - Linear Models to GARCH with code](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
