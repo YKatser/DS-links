@@ -230,13 +230,7 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [Anomaly Detection with Time Series Forecasting (SARIMA, LSTM, Holtwinters)](https://www.kaggle.com/adithya44/anomaly-detection-with-time-series-forecasting)
 
-- Defected products detection: [SECOM Detecting Defected Items (binary classification problem)](https://github.com/sharmaroshan/SECOM-Detecting-Defected-Items) | [Approaches for the class imbalance problem SECOM](https://github.com/Meena-Mani/SECOM_class_imbalance)
-
-- [Bosch Production Line Performance](https://www.kaggle.com/c/bosch-production-line-performance/overview/description) - In this competition, Bosch is challenging Kagglers to predict internal failures using thousands of measurements and tests made for each component along the assembly line. This would enable Bosch to bring quality products at lower costs to the end user.
-
-- [Azure | Deep Learning for Predictive Maintenance (lstms_for_predictive_maintenance incl. RUL)](https://github.com/Azure/lstms_for_predictive_maintenance)
-
-- [RUL, TTF, alot of usefull notebooks](https://github.com/Samimust/predictive-maintenance)
+- [A overview of repositories, videos, posts classified by a specific industrial problem with cases of applying ML in industry](https://github.com/YKatser/Industrial-ML-cases)
 
 - [Time Series Classification and Clustering + Similarity Measures (github)](https://github.com/alexminnaar/time-series-classification-and-clustering)
 
