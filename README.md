@@ -300,6 +300,8 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - `[RU]` [Временные ряды в экономике - секция на DataFusion (youtube)](https://www.youtube.com/watch?v=pj2jHkDohs0)
 
+- [Feature Engineering for Time Series Forecasting. Kishan Manan (youtube)](https://www.youtube.com/watch?v=KrbV75Mby5E)
+
 - [Convert a Time Series to a Supervised Learning Problem with code](https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/)
 
 - [Time Series Analysis (TSA) in Python - Linear Models to GARCH with code](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
