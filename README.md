@@ -92,6 +92,8 @@ A lot of useful DS links
 
 - `[RU]` [D. Vetrov course on Нейробайесовские методы - байесовские сети (youtube)](https://www.youtube.com/playlist?list=PLNO729xOopfFy1NeLkHPN5xnSqGkgcxJ3)
 
+- [9h course of Bayesian Methods for Machine Learning by HSE (youtube)](https://www.youtube.com/watch?v=GlwMQC7IyRk)
+
 - ✅`[RU]` [K. Vorontsov course on ML (2007)](http://www.ccas.ru/voron/teaching.html#ML)
 
 - ✅`[RU]` [Введение в машинное обучение By HSE University and Yandex School of Data Analysis](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
