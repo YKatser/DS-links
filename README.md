@@ -350,7 +350,15 @@ Methods to get the probability of a changepoint in a time series. Both online an
 ## 9. Testing in DS
 - `[RU]` [Тесты DS кода для прода (Алексей Могильников)](https://www.youtube.com/watch?v=-Jx9gvUV520)
 
+- `[RU]` [Как тестировать DS-код, Алексей Могильников](https://www.youtube.com/watch?v=2mhaT3KWFwU)
+
 - `[RU]` [Testing for Data Science Hands-on Guide (Julia Antokhina)](https://www.youtube.com/watch?v=u5NxhpjW4To) | [gitlab](https://gitlab.com/Julia_chan/testing-for-data-science/)
+
+- `[RU]` [Тестирование и мониторинг качества моделей и метрик, Александр Сидоров](https://www.youtube.com/watch?v=6rJ_7662pKU)
+
+- `[RU]` [Можно ли тестировать искусственный интеллект? Процессы, подходы, практика, Антон Хританков](https://www.youtube.com/watch?v=PqDi-2maSyw)
+
+- `[RU]` [Виктория Дочкина | Тестирование систем машинного обучения](https://www.youtube.com/watch?v=y-uXDlS-jpY)
 
 - `[RU]` [Pytest: введение в автотесты // Бесплатный урок OTUS](https://www.youtube.com/watch?v=EBMXOsCL9AA&list=WL&index=24)
 
@@ -408,6 +416,8 @@ We have a fairly wide range of topics that overlap with the topics of other trac
 ```
 Kedro is an open-source Python framework that applies software engineering best-practice to data and machine-learning pipelines. You can use it, for example, to optimise the process of taking a machine learning model into a production environment. You can use Kedro to organise a single user project running on a local environment, or collaborate within a team on an enterprise-level project.
 ```
+
+<img src="files/mlops.jpeg" alt="MLOps" width="350" height="700">
 
 - Pytorch Code for Reproducibility:
 <details>
