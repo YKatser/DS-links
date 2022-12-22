@@ -417,7 +417,13 @@ We have a fairly wide range of topics that overlap with the topics of other trac
 Kedro is an open-source Python framework that applies software engineering best-practice to data and machine-learning pipelines. You can use it, for example, to optimise the process of taking a machine learning model into a production environment. You can use Kedro to organise a single user project running on a local environment, or collaborate within a team on an enterprise-level project.
 ```
 
-<img src="files/mlops.jpeg" alt="MLOps" width="350" height="700">
+- [BentoML](https://docs.bentoml.org/en/latest/tutorial.html)  
+Data Scientists and ML Engineers use BentoML to:
+- Accelerate and standardize the process of taking ML models to production
+- Build scalable and high performance prediction services
+- Continuously deploy, monitor, and operate prediction services in production
+
+<img src="files/mlops.jpeg" alt="MLOps" width="350" height="400">
 
 - Pytorch Code for Reproducibility:
 <details>
