@@ -418,10 +418,14 @@ Kedro is an open-source Python framework that applies software engineering best-
 ```
 
 - [BentoML](https://docs.bentoml.org/en/latest/tutorial.html)  
+```
 Data Scientists and ML Engineers use BentoML to:
 - Accelerate and standardize the process of taking ML models to production
 - Build scalable and high performance prediction services
 - Continuously deploy, monitor, and operate prediction services in production
+```
+
+- [Overview of MLOps instruments and topics](https://github.com/khuyentran1401/Data-science#mlops)
 
 <img src="files/mlops.jpeg" alt="MLOps" width="350" height="400">
 
