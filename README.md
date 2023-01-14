@@ -427,7 +427,7 @@ Data Scientists and ML Engineers use BentoML to:
 
 - [Overview of MLOps instruments and topics](https://github.com/khuyentran1401/Data-science#mlops)
 
-<img src="files/mlops.jpeg" alt="MLOps" width="350" height="400">
+<img src="files/mlops.jpeg" alt="MLOps" width="350" height="400"><img src="files/mlops1.jpeg" alt="MLOps" width="350" height="400">
 
 - Pytorch Code for Reproducibility:
 <details>
@@ -474,7 +474,7 @@ def Random(seed_value):
 
 - [Shortened Volere Requirements Specification Template](https://github.com/ttzt/catalog_of_requirements_for_ai_products)
 
-- `[RU]` [Серия постов о разработке REST API](https://habr.com/ru/post/483202/
+- `[RU]` [Серия постов о разработке REST API](https://habr.com/ru/post/483202/)
 
 - [Channel about AI in production](https://www.youtube.com/c/AppliedAICourse/videos)
 
