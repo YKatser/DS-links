@@ -100,6 +100,10 @@ A lot of useful DS links
 
 - ✅`[RU]` [Демо KarpovCourses Аналитик данных](https://stepik.org/course/74457/syllabus)
 
+- `[RU]` [DOCKER С НУЛЯ. KarpovCourses](https://karpov.courses/docker)
+
+- `[RU]` [ML System Design Course 2022 ODS](https://www.youtube.com/playlist?list=PLTlO6nV_TaGDu_HYG8cm7iUFZ_4qEJAYF)
+
 - `[RU]` [Advanced Machine Learning Specialization by HSE](https://www.coursera.org/specializations/aml)
 
 - `[RU]` Data Mining in Action: [youtube](https://www.youtube.com/channel/UCop3CelRVvrchG5lsPyxvHg/videos) | [github](https://github.com/data-mining-in-action)
