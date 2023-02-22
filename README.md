@@ -310,6 +310,8 @@ Methods to get the probability of a changepoint in a time series. Both online an
 
 - [Convert a Time Series to a Supervised Learning Problem with code](https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/)
 
+- [How to Transform Time Series for Deep Learning | Forecasting with deep neural networks (medium)](https://towardsdatascience.com/how-to-transform-time-series-for-deep-learning-3b6abbbb3726)
+
 - [Time Series Analysis (TSA) in Python - Linear Models to GARCH with code](http://www.blackarbs.com/blog/time-series-analysis-in-python-linear-models-to-garch/11/1/2016)
 
 - [Time Series Analysis by Aileen Nielsen. PyCon 2017 (youtube)](https://www.youtube.com/watch?v=zmfe2RaX-14)
