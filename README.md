@@ -26,7 +26,7 @@ A lot of useful DS links
 - [10. Metrics in DS projects](#metrics)
 - [11. Causal Inference and Explainable AI](#causal)
 - [12. Reproducibility and Automatization](#repa)
-- [13. AI Products Architecture](#ai-products-architecture)
+- [13. AI Products Architecture and System Design](#ai-products-architecture)
 
 <a name="team-leading"></a>
 ## 1. Team leading
@@ -475,7 +475,7 @@ def Random(seed_value):
 </details>
 
 <a name="ai-products-architecture"></a>
-## 13. AI Products Architecture
+## 13. AI Products Architecture and System Design
 - `[RU]` [Архитектура AI продуктов, Михаил Перлин](https://www.youtube.com/watch?v=kbsQRisaJPo) - Архитектура ПО - дисциплина, которая за это отвечает. Что она включает в себя? Каких скиллов и качеств требует? Могут ли DS ею овладеть? Кого звать на помощь, если нужно прямо сейчас? Доклад меньше про технологии и больше про процессы, стратегии и людей.
 
 - [Shortened Volere Requirements Specification Template](https://github.com/ttzt/catalog_of_requirements_for_ai_products)
@@ -485,3 +485,9 @@ def Random(seed_value):
 - [Channel about AI in production](https://www.youtube.com/c/AppliedAICourse/videos)
 
 - [Comprehensive and Comparative List of Feature Store Architectures for Data Scientists and Big Data Professionals](https://medium.com/data-for-ai/comprehensive-and-comparative-list-of-feature-store-architectures-for-data-scientists-and-big-data-86ea8c4d853b)
+
+- [System Design Interview: A Step-By-Step Guide by ByteByteGo on youtube](https://www.youtube.com/watch?v=i7twT3x5yv8)
+
+- System Design Interview с Валерием Бабушкиным by karpov.courses [Выпуск 1](https://www.youtube.com/watch?v=PZoueQ9kjCU&t=19s), [Выпуск 2](https://www.youtube.com/watch?v=DzWY_zceCxk), [Выпуск 3](https://www.youtube.com/watch?v=iqbsHiSnZQE&t=92s), [Выпуск 4](https://www.youtube.com/watch?v=xfH2QMdCvWA)
+
+- ML System Design Interview с Валерием Бабушкиным by karpov.courses [Выпуск 1](https://www.youtube.com/watch?v=VPg2Uu1MYgI&t=57s), [Выпуск 2](https://www.youtube.com/watch?v=WKYPQtqE-m0&t=32s), [Выпуск 3](https://www.youtube.com/watch?v=3X-TAuWdIAc)
