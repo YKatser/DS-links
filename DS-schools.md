@@ -2,7 +2,6 @@
 | Название и ссылка | Стоимость | Длительность | Тема | Соревнование/хакатон | Наличие B2B |
 |--|--|--|--|--|--|
 | [Курс-интенсив по созданию ML-продуктов](https://maths-h.com/ru/mlprototype?utm=timepad.ru_workshop) | - | 56 часов обучения + 40 часов практики | ML-продукты | - | + |
-| [datagym](https://datagym.ru) | 65.000 ₽ | 8 недель: 55 часов + 17 дз + 3-х недельный курсовой проект | Практическое применение DS | + | + |
 | [pymagic](https://pymagic.ru) | 90.000 ₽ | 4 месяца | ML для начинающих | - | - |
 | [Data science. Машинное обучение.](https://school.napoleonit.ru/machine-learning) by NapoleonIT | 37.000 ₽ | 2,5 месяца | Для начинающих DS, программистов, аналитиков | + | - |
 | [karpov.courses](https://karpov.courses/analytics) Аналитик данных | 70.000 ₽ | 5 месяцев | СТАРТ КАРЬЕРЫ | - | [+](https://karpov.courses/b2b) |
